@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Videojuegos Retro</title>
+    <link rel="icon" type="image/x-icon" href="./img/favicon.ico">
+
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.9.1/font/bootstrap-icons.css">
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/toastify-js/src/toastify.min.css">
+    <link rel="stylesheet" href="./css/main.css">
+</head>
+<body>
+
+    <div class="wrapper">
+        <header class="header-mobile">
+            <h1 class="logo">Videojuegos Retro</h1>
+            <button class="open-menu" id="open-menu">
+                <i class="bi bi-list"></i>
+            </button>
+        </header>
+        <aside>
+            <button class="close-menu" id="close-menu">
+                <i class="bi bi-x"></i>
+            </button>
+            <header>
+                <h1 class="logo">Videojuegos</h1>
+                <h1 class="logo">Retro</h1>
+                <img style="height: 100px; width: 100px;" src="./img/logo.png" alt="">
+                
+            </header>
+            <nav>
+                <ul class="menu">
+                    <li>
+                        <button id="todos" class="boton-menu boton-categoria active"><i class="bi bi-hand-index-thumb-fill"></i> Todos los videojuegos</button>
+                    </li>
+                    <li>
+                        <button id="PCalta" class="boton-menu boton-categoria"><i class="bi bi-hand-index-thumb"></i> Requisitos altos (Tarjeta gráfica)</button>
+                    </li>
+                    <li>
+                        <button id="PCbaja" class="boton-menu boton-categoria"><i class="bi bi-hand-index-thumb"></i> Requisitos bajos (Sin tarjeta gráfica)</button>
+                    </li>
+                    <li>
+                        <a class="boton-menu boton-carrito" href="./carrito.html">
+                            <i class="bi bi-cart-fill"></i> Carrito <span id="numerito" class="numerito">0</span>
+                        </a>
+                    </li>
+                </ul>
+            </nav>
+            <footer>
+                <p class="texto-footer">© 2023 Videojuegos Retro</p>
+            </footer>
+        </aside>
+        <main>
+            <h2 class="titulo-principal" id="titulo-principal">Catálogo juegos para computador</h2>
+            <div class="search-bar">
+                <input type="text" id="search-input" placeholder="Buscar juegos...">
+                <button onclick="buscarJuegos()">Buscar</button>
+            </div>
+            <div id="contenedor-productos" class="contenedor-productos">
+                <!-- Esto se va a rellenar con JS -->
+            </div>
+            <a href="https://api.whatsapp.com/send?phone=573042672810&text=Hola,%20no%20encuentro%20el%20juego%20que%20busco" target="_blank">
+                <img style="height: 100px; width: 300px;" src="./img/whatsapp2.png" alt="WhatsApp">
+              </a>
+        </main>
+    </div>
+    
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/toastify-js"></script>
+    <script src="./js/main.js"></script>
+    <script src="./js/menu.js"></script>
+</body>
+</html>

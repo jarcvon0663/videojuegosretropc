@@ -1,0 +1,552 @@
+[
+    {
+        "id": "abrigo-00",
+        "titulo": "Age of Mythology",
+        "imagen": "./img/play/aom.jpg",
+        "categoria": {
+            "nombre": "Bajos requisitos",
+            "id": "PCbaja"
+        },
+        "precio": 7000
+    },
+    {
+        "id": "abrigo-001",
+        "titulo": "Combat Flight Simulator 2",
+        "imagen": "./img/play/02.jpg",
+        "categoria": {
+            "nombre": "Bajos requisitos",
+            "id": "PCbaja"
+        },
+        "precio": 7000
+    },
+    {
+        "id": "abrigo-002",
+        "titulo": "Call of Duty Modern Warfare 4",
+        "imagen": "./img/play/15.jpg",
+        "categoria": {
+            "nombre": "Requieren que su computador tenga tarjeta gráfica",
+            "id": "PCalta"
+        },
+        "precio": 7000
+    },
+    {
+        "id": "abrigo-003",
+        "titulo": "Scarface",
+        "imagen": "./img/play/10.jpg",
+        "categoria": {
+            "nombre": "Requieren que su computador tenga tarjeta gráfica",
+            "id": "PCalta"
+        },
+        "precio": 7000
+    },
+    {
+        "id": "abrigo-004",
+        "titulo": "Halo 2",
+        "imagen": "./img/play/12.jpg",
+        "categoria": {
+            "nombre": "Requieren que su computador tenga tarjeta gráfica",
+            "id": "PCalta"
+        },
+        "precio": 7000
+    },
+    {
+        "id": "abrigo-005",
+        "titulo": "Call of Duty Black Ops",
+        "imagen": "./img/play/16.jpg",
+        "categoria": {
+            "nombre": "Requieren que su computador tenga tarjeta gráfica",
+            "id": "PCalta"
+        },
+        "precio": 7000
+    },
+    {
+        "id": "abrigo-006",
+        "titulo": "Age of Empires 2",
+        "imagen": "./img/play/17.jpg",
+        "categoria": {
+            "nombre": "Bajos requisitos",
+            "id": "PCbaja"
+        },
+        "precio": 7000
+    },
+    {
+        "id": "abrigo-007",
+        "titulo": "Call of Duty",
+        "imagen": "./img/play/05.jpg",
+        "categoria": {
+            "nombre": "Bajos requisitos",
+            "id": "PCbaja"
+        },
+        "precio": 7000
+    },
+    {
+        "id": "abrigo-008",
+        "titulo": "Call of Duty 2",
+        "imagen": "./img/play/21.jpg",
+        "categoria": {
+            "nombre": "Bajos requisitos",
+            "id": "PCbaja"
+        },
+        "precio": 7000
+    },
+    {
+        "id": "abrigo-009",
+        "titulo": "Hitman 4 Blood Money",
+        "imagen": "./img/play/26.jpg",
+        "categoria": {
+            "nombre": "Requieren que su computador tenga tarjeta gráfica",
+            "id": "PCalta"
+        },
+        "precio": 7000
+    },
+    {
+        "id": "abrigo-010",
+        "titulo": "Rise of Nations",
+        "imagen": "./img/play/03.jpg",
+        "categoria": {
+            "nombre": "Bajos requisitos",
+            "id": "PCbaja"
+        },
+        "precio": 7000
+    },
+    {
+        "id": "abrigo-011",
+        "titulo": "Empire Earth",
+        "imagen": "./img/play/04.jpg",
+        "categoria": {
+            "nombre": "Bajos requisitos",
+            "id": "PCbaja"
+        },
+        "precio": 7000
+    },
+    {
+        "id": "abrigo-012",
+        "titulo": "Euro Truck Simulator 2",
+        "imagen": "./img/play/11.jpg",
+        "categoria": {
+            "nombre": "Requieren que su computador tenga tarjeta gráfica",
+            "id": "PCalta"
+        },
+        "precio": 7000
+    },
+    {
+        "id": "abrigo-013",
+        "titulo": "Metal Slug Collection",
+        "imagen": "./img/play/18.jpg",
+        "categoria": {
+            "nombre": "Bajos requisitos",
+            "id": "PCbaja"
+        },
+        "precio": 7000
+    },
+    {
+        "id": "abrigo-014",
+        "titulo": "Flight Simulator X",
+        "imagen": "./img/play/23.jpg",
+        "categoria": {
+            "nombre": "Requieren que su computador tenga tarjeta gráfica",
+            "id": "PCalta"
+        },
+        "precio": 7000
+    },
+    {
+        "id": "abrigo-015",
+        "titulo": "Grand Theft Auto 5",
+        "imagen": "./img/play/32.jpg",
+        "categoria": {
+            "nombre": "Requieren que su computador tenga tarjeta gráfica",
+            "id": "PCalta"
+        },
+        "precio": 20000
+    },
+    {
+        "id": "abrigo-016",
+        "titulo": "Need for Speed Carbon",
+        "imagen": "./img/play/nfscarbon.jpg",
+        "categoria": {
+            "nombre": "Bajos requisitos",
+            "id": "PCbaja"
+        },
+        "precio": 7000
+    },
+    {
+        "id": "abrigo-01",
+        "titulo": "Need for Speed Urderground 2",
+        "imagen": "./img/pc/01.jpg",
+        "categoria": {
+            "nombre": "Bajos requisitos",
+            "id": "PCbaja"
+        },
+        "precio": 7000
+    },
+    {
+        "id": "abrigo-02",
+        "titulo": "Need for Speed Most Wanted",
+        "imagen": "./img/pc/07.jpg",
+        "categoria": {
+            "nombre": "Bajos requisitos",
+            "id": "PCbaja"
+        },
+        "precio": 7000
+    },
+    {
+        "id": "abrigo-03",
+        "titulo": "Grand Theft Auto San Andreas",
+        "imagen": "./img/pc/06.jpg",
+        "categoria": {
+            "nombre": "Bajos requisitos",
+            "id": "PCbaja"
+        },
+        "precio": 7000
+    },
+    {
+        "id": "abrigo-04",
+        "titulo": "Grand Theft Auto Vice City",
+        "imagen": "./img/pc/09.jpg",
+        "categoria": {
+            "nombre": "Bajos requisitos",
+            "id": "PCbaja"
+        },
+        "precio": 7000
+    },
+    {
+        "id": "abrigo-06",
+        "titulo": "God of War",
+        "imagen": "./img/pc/gow1.jpg",
+        "categoria": {
+            "nombre": "Bajos requisitos",
+            "id": "PCbaja"
+        },
+        "precio": 7000
+    },
+    {
+        "id": "abrigo-07",
+        "titulo": "God of War",
+        "imagen": "./img/pc/gow2.jpg",
+        "categoria": {
+            "nombre": "Bajos requisitos",
+            "id": "PCbaja"
+        },
+        "precio": 7000
+    },
+    {
+        "id": "abrigo-08",
+        "titulo": "Def Jam Fight NY",
+        "imagen": "./img/pc/DJFNY.jpg",
+        "categoria": {
+            "nombre": "Bajos requisitos",
+            "id": "PCbaja"
+        },
+        "precio": 7000
+    },
+    {
+        "id": "abrigo-09",
+        "titulo": "Conflict Vietnam",
+        "imagen": "./img/pc/conflict vietnam.jpg",
+        "categoria": {
+            "nombre": "Bajos requisitos",
+            "id": "PCbaja"
+        },
+        "precio": 7000
+    },
+    {
+        "id": "abrigo-10",
+        "titulo": "Gran Turismo 4",
+        "imagen": "./img/pc/14.jpg",
+        "categoria": {
+            "nombre": "Bajos requisitos",
+            "id": "PCbaja"
+        },
+        "precio": 7000
+    },
+    {
+        "id": "abrigo-11",
+        "titulo": "Need for Speed Urderground",
+        "imagen": "./img/pc/20.jpg",
+        "categoria": {
+            "nombre": "Bajos requisitos",
+            "id": "PCbaja"
+        },
+        "precio": 7000
+    },
+    {
+        "id": "abrigo-12",
+        "titulo": "Freedom Fighters",
+        "imagen": "./img/pc/08.jpg",
+        "categoria": {
+            "nombre": "Bajos requisitos",
+            "id": "PCbaja"
+        },
+        "precio": 7000
+    },
+    {
+        "id": "abrigo-13",
+        "titulo": "Pepsiman",
+        "imagen": "./img/pc/132.jpg",
+        "categoria": {
+            "nombre": "Bajos requisitos",
+            "id": "PCbaja"
+        },
+        "precio": 7000
+    },
+    {
+        "id": "abrigo-14",
+        "titulo": "Resident Evil 2",
+        "imagen": "./img/pc/46.jpg",
+        "categoria": {
+            "nombre": "Bajos requisitos",
+            "id": "PCbaja"
+        },
+        "precio": 7000
+    },
+    {
+        "id": "abrigo-15",
+        "titulo": "Resident Evil 3",
+        "imagen": "./img/pc/47.jpg",
+        "categoria": {
+            "nombre": "Bajos requisitos",
+            "id": "PCbaja"
+        },
+        "precio": 7000
+    },
+    {
+        "id": "abrigo-16",
+        "titulo": "Crash Bandicoot",
+        "imagen": "./img/pc/032.jpg",
+        "categoria": {
+            "nombre": "Bajos requisitos",
+            "id": "PCbaja"
+        },
+        "precio": 7000
+    },
+    {
+        "id": "abrigo-17",
+        "titulo": "Crash Team Racing",
+        "imagen": "./img/pc/57.jpg",
+        "categoria": {
+            "nombre": "Bajos requisitos",
+            "id": "PCbaja"
+        },
+        "precio": 7000
+    },
+    {
+        "id": "abrigo-18",
+        "titulo": "Pokémon",
+        "imagen": "./img/pc/pokemon.jpg",
+        "categoria": {
+            "nombre": "Bajos requisitos",
+            "id": "PCbaja"
+        },
+        "precio": 7000
+    },
+    {
+        "id": "abrigo-19",
+        "titulo": "Mario Kart",
+        "imagen": "./img/pc/mario kart.jpg",
+        "categoria": {
+            "nombre": "Bajos requisitos",
+            "id": "PCbaja"
+        },
+        "precio": 7000
+    },
+    {
+        "id": "abrigo-20",
+        "titulo": "007 Tomorrow Never Dies",
+        "imagen": "./img/pc/54.jpg",
+        "categoria": {
+            "nombre": "Bajos requisitos",
+            "id": "PCbaja"
+        },
+        "precio": 7000
+    },
+    {
+        "id": "abrigo-21",
+        "titulo": "Bugs Bunny y Taz",
+        "imagen": "./img/pc/55.jpg",
+        "categoria": {
+            "nombre": "Bajos requisitos",
+            "id": "PCbaja"
+        },
+        "precio": 7000
+    },
+    {
+        "id": "abrigo-22",
+        "titulo": "Capcom vs SNK",
+        "imagen": "./img/pc/56.jpg",
+        "categoria": {
+            "nombre": "Bajos requisitos",
+            "id": "PCbaja"
+        },
+        "precio": 7000
+    },
+    {
+        "id": "abrigo-23",
+        "titulo": "Driver 1",
+        "imagen": "./img/pc/58.jpg",
+        "categoria": {
+            "nombre": "Bajos requisitos",
+            "id": "PCbaja"
+        },
+        "precio": 7000
+    },
+    {
+        "id": "abrigo-24",
+        "titulo": "Driver 2",
+        "imagen": "./img/pc/59.jpg",
+        "categoria": {
+            "nombre": "Bajos requisitos",
+            "id": "PCbaja"
+        },
+        "precio": 7000
+    },
+    {
+        "id": "abrigo-25",
+        "titulo": "Harry Potter y la Cámara de los Secretos",
+        "imagen": "./img/pc/40.jpg",
+        "categoria": {
+            "nombre": "Bajos requisitos",
+            "id": "PCbaja"
+        },
+        "precio": 7000
+    },
+    {
+        "id": "abrigo-26",
+        "titulo": "Harry Potter y la Piedra Filosofal",
+        "imagen": "./img/pc/60.jpg",
+        "categoria": {
+            "nombre": "Bajos requisitos",
+            "id": "PCbaja"
+        },
+        "precio": 7000
+    },
+    {
+        "id": "abrigo-27",
+        "titulo": "Jackie Chan Stuntmaster",
+        "imagen": "./img/pc/41.jpg",
+        "categoria": {
+            "nombre": "Bajos requisitos",
+            "id": "PCbaja"
+        },
+        "precio": 7000
+    },
+    {
+        "id": "abrigo-28",
+        "titulo": "Medal of Honor Underground",
+        "imagen": "./img/pc/42.jpg",
+        "categoria": {
+            "nombre": "Bajos requisitos",
+            "id": "PCbaja"
+        },
+        "precio": 7000
+    },
+    {
+        "id": "abrigo-29",
+        "titulo": "Metal Slug X",
+        "imagen": "./img/pc/43.jpg",
+        "categoria": {
+            "nombre": "Bajos requisitos",
+            "id": "PCbaja"
+        },
+        "precio": 7000
+    },
+    {
+        "id": "abrigo-30",
+        "titulo": "Mortal Kombat Trilogy",
+        "imagen": "./img/pc/112.jpg",
+        "categoria": {
+            "nombre": "Bajos requisitos",
+            "id": "PCbaja"
+        },
+        "precio": 7000
+    },
+    {
+        "id": "abrigo-31",
+        "titulo": "NASCAR Thunder 2004",
+        "imagen": "./img/pc/44.jpg",
+        "categoria": {
+            "nombre": "Bajos requisitos",
+            "id": "PCbaja"
+        },
+        "precio": 7000
+    },
+    {
+        "id": "abrigo-32",
+        "titulo": "Need for Speed Porsche",
+        "imagen": "./img/pc/45.jpg",
+        "categoria": {
+            "nombre": "Bajos requisitos",
+            "id": "PCbaja"
+        },
+        "precio": 7000
+    },
+    {
+        "id": "abrigo-33",
+        "titulo": "Road Rash Jailbreak",
+        "imagen": "./img/pc/48.jpg",
+        "categoria": {
+            "nombre": "Bajos requisitos",
+            "id": "PCbaja"
+        },
+        "precio": 7000
+    },
+    {
+        "id": "abrigo-34",
+        "titulo": "Silent Hill",
+        "imagen": "./img/pc/49.jpg",
+        "categoria": {
+            "nombre": "Bajos requisitos",
+            "id": "PCbaja"
+        },
+        "precio": 7000
+    },
+    {
+        "id": "abrigo-35",
+        "titulo": "Spider-Man",
+        "imagen": "./img/pc/50.jpg",
+        "categoria": {
+            "nombre": "Bajos requisitos",
+            "id": "PCbaja"
+        },
+        "precio": 7000
+    },
+    {
+        "id": "abrigo-36",
+        "titulo": "Syphon Filter",
+        "imagen": "./img/pc/51.jpg",
+        "categoria": {
+            "nombre": "Bajos requisitos",
+            "id": "PCbaja"
+        },
+        "precio": 7000
+    },
+    {
+        "id": "abrigo-37",
+        "titulo": "Syphon Filter 3",
+        "imagen": "./img/pc/52.jpg",
+        "categoria": {
+            "nombre": "Bajos requisitos",
+            "id": "PCbaja"
+        },
+        "precio": 7000
+    },
+    {
+        "id": "abrigo-38",
+        "titulo": "Tony Hawk's Pro Skater 4",
+        "imagen": "./img/pc/53.jpg",
+        "categoria": {
+            "nombre": "Bajos requisitos",
+            "id": "PCbaja"
+        },
+        "precio": 7000
+    },
+    {
+        "id": "abrigo-39",
+        "titulo": "Acceso a todo el catálogo",
+        "imagen": "./img/pc/todos.jpg",
+        "categoria": {
+            "nombre": "Requieren que su computador tenga tarjeta gráfica",
+            "id": "PCalta"
+        },
+        "precio": 70000
+    }
+]
