@@ -1,552 +1,2697 @@
 [
-    {
-        "id": "abrigo-00",
-        "titulo": "Age of Mythology",
-        "imagen": "./img/play/aom.jpg",
-        "categoria": {
-            "nombre": "Bajos requisitos",
-            "id": "PCbaja"
-        },
-        "precio": 7000
+  {
+    "id": "abrigo-000",
+    "titulo": "Age of Mythology",
+    "imagen": "./img/play/aom.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
     },
-    {
-        "id": "abrigo-001",
-        "titulo": "Combat Flight Simulator 2",
-        "imagen": "./img/play/02.jpg",
-        "categoria": {
-            "nombre": "Bajos requisitos",
-            "id": "PCbaja"
-        },
-        "precio": 7000
+    "precio": 7000,
+    "trailer": "https://youtu.be/eFOcJRd2syc?si=yKEgh-8y8bGosyh8"
+  },
+  {
+    "id": "abrigo-001",
+    "titulo": "Combat Flight Simulator 2",
+    "imagen": "./img/play/02.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
     },
-    {
-        "id": "abrigo-002",
-        "titulo": "Call of Duty Modern Warfare 4",
-        "imagen": "./img/play/15.jpg",
-        "categoria": {
-            "nombre": "Requieren que su computador tenga tarjeta gráfica",
-            "id": "PCalta"
-        },
-        "precio": 7000
+    "precio": 7000,
+    "trailer": "https://youtu.be/5Ky6hgbRtZc?si=62EVq1WJvYLOLlLd"
+  },
+  {
+    "id": "abrigo-002",
+    "titulo": "Call of Duty Modern Warfare 4",
+    "imagen": "./img/play/15.jpg",
+    "categoria": {
+      "nombre": "Requieren que su computador tenga tarjeta grafica",
+      "id": "PCalta"
     },
-    {
-        "id": "abrigo-003",
-        "titulo": "Scarface",
-        "imagen": "./img/play/10.jpg",
-        "categoria": {
-            "nombre": "Requieren que su computador tenga tarjeta gráfica",
-            "id": "PCalta"
-        },
-        "precio": 7000
+    "precio": 7000,
+    "trailer": "https://youtu.be/75Z6eIV66h0?si=K9mUFoVPez7AMCwG"
+  },
+  {
+    "id": "abrigo-003",
+    "titulo": "Halo 2",
+    "imagen": "./img/play/12.jpg",
+    "categoria": {
+      "nombre": "Requieren que su computador tenga tarjeta grafica",
+      "id": "PCalta"
     },
-    {
-        "id": "abrigo-004",
-        "titulo": "Halo 2",
-        "imagen": "./img/play/12.jpg",
-        "categoria": {
-            "nombre": "Requieren que su computador tenga tarjeta gráfica",
-            "id": "PCalta"
-        },
-        "precio": 7000
+    "precio": 7000,
+    "trailer": "https://youtu.be/9RzLeg9WS_o?si=z6lmQ7zByZJoGcqh"
+  },
+  {
+    "id": "abrigo-004",
+    "titulo": "Call of Duty Black Ops",
+    "imagen": "./img/play/16.jpg",
+    "categoria": {
+      "nombre": "Requieren que su computador tenga tarjeta grafica",
+      "id": "PCalta"
     },
-    {
-        "id": "abrigo-005",
-        "titulo": "Call of Duty Black Ops",
-        "imagen": "./img/play/16.jpg",
-        "categoria": {
-            "nombre": "Requieren que su computador tenga tarjeta gráfica",
-            "id": "PCalta"
-        },
-        "precio": 7000
+    "precio": 7000,
+    "trailer": "https://youtu.be/02bydBQzX0s?si=Zcln4lIC3eHdwWqU"
+  },
+  {
+    "id": "abrigo-005",
+    "titulo": "Age of Empires 2",
+    "imagen": "./img/play/17.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
     },
-    {
-        "id": "abrigo-006",
-        "titulo": "Age of Empires 2",
-        "imagen": "./img/play/17.jpg",
-        "categoria": {
-            "nombre": "Bajos requisitos",
-            "id": "PCbaja"
-        },
-        "precio": 7000
+    "precio": 7000,
+    "trailer": "https://youtu.be/Si6QPKiNoDY?si=Z95Og55i8pqvRAsd"
+  },
+  {
+    "id": "abrigo-006",
+    "titulo": "Call of Duty",
+    "imagen": "./img/play/05.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
     },
-    {
-        "id": "abrigo-007",
-        "titulo": "Call of Duty",
-        "imagen": "./img/play/05.jpg",
-        "categoria": {
-            "nombre": "Bajos requisitos",
-            "id": "PCbaja"
-        },
-        "precio": 7000
+    "precio": 7000,
+    "trailer": "https://youtu.be/ZdODnjkft6w?si=UvP32ROdxH5n6ICy"
+  },
+  {
+    "id": "abrigo-007",
+    "titulo": "Call of Duty 2",
+    "imagen": "./img/play/21.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
     },
-    {
-        "id": "abrigo-008",
-        "titulo": "Call of Duty 2",
-        "imagen": "./img/play/21.jpg",
-        "categoria": {
-            "nombre": "Bajos requisitos",
-            "id": "PCbaja"
-        },
-        "precio": 7000
+    "precio": 7000,
+    "trailer": "https://youtu.be/gjZJU0M7qck?si=zh99_E-1Vzactjdc"
+  },
+  {
+    "id": "abrigo-008",
+    "titulo": "Hitman 4 Blood Money",
+    "imagen": "./img/play/26.jpg",
+    "categoria": {
+      "nombre": "Requieren que su computador tenga tarjeta grafica",
+      "id": "PCalta"
     },
-    {
-        "id": "abrigo-009",
-        "titulo": "Hitman 4 Blood Money",
-        "imagen": "./img/play/26.jpg",
-        "categoria": {
-            "nombre": "Requieren que su computador tenga tarjeta gráfica",
-            "id": "PCalta"
-        },
-        "precio": 7000
+    "precio": 7000,
+    "trailer": "https://youtu.be/TaHzFLtvZVQ?si=uzGzKgbmoa2aZa8C"
+  },
+  {
+    "id": "abrigo-009",
+    "titulo": "Rise of Nations",
+    "imagen": "./img/play/03.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
     },
-    {
-        "id": "abrigo-010",
-        "titulo": "Rise of Nations",
-        "imagen": "./img/play/03.jpg",
-        "categoria": {
-            "nombre": "Bajos requisitos",
-            "id": "PCbaja"
-        },
-        "precio": 7000
+    "precio": 7000,
+    "trailer": "https://youtu.be/jXOzZIgbqBI?si=jP1RoHPIGTlNciDY"
+  },
+  {
+    "id": "abrigo-010",
+    "titulo": "Empire Earth",
+    "imagen": "./img/play/04.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
     },
-    {
-        "id": "abrigo-011",
-        "titulo": "Empire Earth",
-        "imagen": "./img/play/04.jpg",
-        "categoria": {
-            "nombre": "Bajos requisitos",
-            "id": "PCbaja"
-        },
-        "precio": 7000
+    "precio": 7000,
+    "trailer": "https://youtu.be/RyD0lyRBwTY?si=NzYAe0xy3nz-CMEj"
+  },
+  {
+    "id": "abrigo-011",
+    "titulo": "Age of Empires 3",
+    "imagen": "./img/play/aoe3.jpg",
+    "categoria": {
+      "nombre": "Requieren que su computador tenga tarjeta grafica",
+      "id": "PCalta"
     },
-    {
-        "id": "abrigo-012",
-        "titulo": "Euro Truck Simulator 2",
-        "imagen": "./img/play/11.jpg",
-        "categoria": {
-            "nombre": "Requieren que su computador tenga tarjeta gráfica",
-            "id": "PCalta"
-        },
-        "precio": 7000
+    "precio": 7000,
+    "trailer": "https://youtu.be/W9vxrNTBoeo?si=FYmGC3aD3sXnRge-"
+  },
+  {
+    "id": "abrigo-012",
+    "titulo": "Euro Truck Simulator 2",
+    "imagen": "./img/play/11.jpg",
+    "categoria": {
+      "nombre": "Requieren que su computador tenga tarjeta grafica",
+      "id": "PCalta"
     },
-    {
-        "id": "abrigo-013",
-        "titulo": "Metal Slug Collection",
-        "imagen": "./img/play/18.jpg",
-        "categoria": {
-            "nombre": "Bajos requisitos",
-            "id": "PCbaja"
-        },
-        "precio": 7000
+    "precio": 7000,
+    "trailer": "https://youtu.be/_wAJE1d6YXo?si=gczRM-hCoAZ4bNky"
+  },
+  {
+    "id": "abrigo-013",
+    "titulo": "Assassins Creed",
+    "imagen": "./img/play/assassinscreed.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
     },
-    {
-        "id": "abrigo-014",
-        "titulo": "Flight Simulator X",
-        "imagen": "./img/play/23.jpg",
-        "categoria": {
-            "nombre": "Requieren que su computador tenga tarjeta gráfica",
-            "id": "PCalta"
-        },
-        "precio": 7000
+    "precio": 7000,
+    "trailer": "https://youtu.be/DyWW_BlNGiU?si=6q8CVIsVFOw6di8V"
+  },
+  {
+    "id": "abrigo-014",
+    "titulo": "Metal Slug Collection",
+    "imagen": "./img/play/18.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
     },
-    {
-        "id": "abrigo-015",
-        "titulo": "Grand Theft Auto 5",
-        "imagen": "./img/play/32.jpg",
-        "categoria": {
-            "nombre": "Requieren que su computador tenga tarjeta gráfica",
-            "id": "PCalta"
-        },
-        "precio": 20000
+    "precio": 7000,
+    "trailer": "https://youtu.be/vjHHRCVa7hY?si=yok1ldqdL4E8wzA2"
+  },
+  {
+    "id": "abrigo-015",
+    "titulo": "Assassins Creed 2",
+    "imagen": "./img/play/assassinscreed2.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
     },
-    {
-        "id": "abrigo-016",
-        "titulo": "Need for Speed Carbon",
-        "imagen": "./img/play/nfscarbon.jpg",
-        "categoria": {
-            "nombre": "Bajos requisitos",
-            "id": "PCbaja"
-        },
-        "precio": 7000
+    "precio": 7000,
+    "trailer": "https://youtu.be/IciEmUryjQo?si=he6dJc_NW1BaytaK"
+  },
+  {
+    "id": "abrigo-016",
+    "titulo": "Assassins Creed 3",
+    "imagen": "./img/play/assassinscreed3.jpg",
+    "categoria": {
+      "nombre": "Requieren que su computador tenga tarjeta grafica",
+      "id": "PCalta"
     },
-    {
-        "id": "abrigo-01",
-        "titulo": "Need for Speed Urderground 2",
-        "imagen": "./img/pc/01.jpg",
-        "categoria": {
-            "nombre": "Bajos requisitos",
-            "id": "PCbaja"
-        },
-        "precio": 7000
+    "precio": 7000,
+    "trailer": "https://youtu.be/zPlBo3-Ed08?si=L3zbx13ZnSAsIea4"
+  },
+  {
+    "id": "abrigo-017",
+    "titulo": "Assassins Creed Rogue",
+    "imagen": "./img/play/assassinscreedrogue.jpg",
+    "categoria": {
+      "nombre": "Requieren que su computador tenga tarjeta grafica",
+      "id": "PCalta"
     },
-    {
-        "id": "abrigo-02",
-        "titulo": "Need for Speed Most Wanted",
-        "imagen": "./img/pc/07.jpg",
-        "categoria": {
-            "nombre": "Bajos requisitos",
-            "id": "PCbaja"
-        },
-        "precio": 7000
+    "precio": 7000,
+    "trailer": "https://youtu.be/UW5gIOiNhBY?si=AfVTjGXBkuHp2nq8"
+  },
+  {
+    "id": "abrigo-018",
+    "titulo": "Fable",
+    "imagen": "./img/play/fable.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
     },
-    {
-        "id": "abrigo-03",
-        "titulo": "Grand Theft Auto San Andreas",
-        "imagen": "./img/pc/06.jpg",
-        "categoria": {
-            "nombre": "Bajos requisitos",
-            "id": "PCbaja"
-        },
-        "precio": 7000
+    "precio": 7000,
+    "trailer": "https://youtu.be/mOQZpeubPS4?si=vk7y1P8DEU4jCkyx"
+  },
+  {
+    "id": "abrigo-019",
+    "titulo": "Flight Simulator X",
+    "imagen": "./img/play/23.jpg",
+    "categoria": {
+      "nombre": "Requieren que su computador tenga tarjeta grafica",
+      "id": "PCalta"
     },
-    {
-        "id": "abrigo-04",
-        "titulo": "Grand Theft Auto Vice City",
-        "imagen": "./img/pc/09.jpg",
-        "categoria": {
-            "nombre": "Bajos requisitos",
-            "id": "PCbaja"
-        },
-        "precio": 7000
+    "precio": 7000,
+    "trailer": "https://youtu.be/qGh4zrBNyyk?si=6CiyNmCuKOC0whDT"
+  },
+  {
+    "id": "abrigo-020",
+    "titulo": "Halo",
+    "imagen": "./img/play/halo.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
     },
-    {
-        "id": "abrigo-06",
-        "titulo": "God of War",
-        "imagen": "./img/pc/gow1.jpg",
-        "categoria": {
-            "nombre": "Bajos requisitos",
-            "id": "PCbaja"
-        },
-        "precio": 7000
+    "precio": 7000,
+    "trailer": "https://youtu.be/yTKRZQqG7fc?si=muTmuWV2P2F-5nMx"
+  },
+  {
+    "id": "abrigo-021",
+    "titulo": "Grand Theft Auto 5",
+    "imagen": "./img/play/32.jpg",
+    "categoria": {
+      "nombre": "Requieren que su computador tenga tarjeta grafica",
+      "id": "PCalta"
     },
-    {
-        "id": "abrigo-07",
-        "titulo": "God of War",
-        "imagen": "./img/pc/gow2.jpg",
-        "categoria": {
-            "nombre": "Bajos requisitos",
-            "id": "PCbaja"
-        },
-        "precio": 7000
+    "precio": 20000,
+    "trailer": "https://youtu.be/KjuiX9auBkE?si=fQitRaKm9M7kJTFE"
+  },
+  {
+    "id": "abrigo-022",
+    "titulo": "Sims",
+    "imagen": "./img/play/sims.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
     },
-    {
-        "id": "abrigo-08",
-        "titulo": "Def Jam Fight NY",
-        "imagen": "./img/pc/DJFNY.jpg",
-        "categoria": {
-            "nombre": "Bajos requisitos",
-            "id": "PCbaja"
-        },
-        "precio": 7000
+    "precio": 7000,
+    "trailer": "https://youtu.be/RdVis25dXJk?si=X5e3KHltYX7LeLVe"
+  },
+  {
+    "id": "abrigo-023",
+    "titulo": "Sims 2",
+    "imagen": "./img/play/sims2.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
     },
-    {
-        "id": "abrigo-09",
-        "titulo": "Conflict Vietnam",
-        "imagen": "./img/pc/conflict vietnam.jpg",
-        "categoria": {
-            "nombre": "Bajos requisitos",
-            "id": "PCbaja"
-        },
-        "precio": 7000
+    "precio": 7000,
+    "trailer": "https://youtu.be/p7x4jD0Rvgw?si=2_d840PTwgPT2Ui5"
+  },
+  {
+    "id": "abrigo-024",
+    "titulo": "Sims 3",
+    "imagen": "./img/play/sims3.jpg",
+    "categoria": {
+      "nombre": "Requieren que su computador tenga tarjeta grafica",
+      "id": "PCalta"
     },
-    {
-        "id": "abrigo-10",
-        "titulo": "Gran Turismo 4",
-        "imagen": "./img/pc/14.jpg",
-        "categoria": {
-            "nombre": "Bajos requisitos",
-            "id": "PCbaja"
-        },
-        "precio": 7000
+    "precio": 7000,
+    "trailer": "https://youtu.be/sLWCCHFYZ2g?si=ftyu1HXHjPugFya1"
+  },
+  {
+    "id": "abrigo-025",
+    "titulo": "Sims 4",
+    "imagen": "./img/play/sims4.jpg",
+    "categoria": {
+      "nombre": "Requieren que su computador tenga tarjeta grafica",
+      "id": "PCalta"
     },
-    {
-        "id": "abrigo-11",
-        "titulo": "Need for Speed Urderground",
-        "imagen": "./img/pc/20.jpg",
-        "categoria": {
-            "nombre": "Bajos requisitos",
-            "id": "PCbaja"
-        },
-        "precio": 7000
+    "precio": 7000,
+    "trailer": "https://youtu.be/oaodXBCyvuQ?si=MNkdVXmiJsXouzR5"
+  },
+  {
+    "id": "abrigo-100",
+    "titulo": "Black",
+    "imagen": "./img/pc/black.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
     },
-    {
-        "id": "abrigo-12",
-        "titulo": "Freedom Fighters",
-        "imagen": "./img/pc/08.jpg",
-        "categoria": {
-            "nombre": "Bajos requisitos",
-            "id": "PCbaja"
-        },
-        "precio": 7000
+    "precio": 7000,
+    "trailer": "https://youtu.be/JSvgsEsJ1Vg?si=65l5NRO0MKw9Mh3D"
+  },
+  {
+    "id": "abrigo-101",
+    "titulo": "Grand Theft Auto San Andreas",
+    "imagen": "./img/pc/gtasa.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
     },
-    {
-        "id": "abrigo-13",
-        "titulo": "Pepsiman",
-        "imagen": "./img/pc/132.jpg",
-        "categoria": {
-            "nombre": "Bajos requisitos",
-            "id": "PCbaja"
-        },
-        "precio": 7000
+    "precio": 7000,
+    "trailer": "https://youtu.be/ZO2YOqZ9v_E?si=yUdcFyeZbTIrkwt4"
+  },
+  {
+    "id": "abrigo-102",
+    "titulo": "Grand Theft Auto 3",
+    "imagen": "./img/pc/gta3.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
     },
-    {
-        "id": "abrigo-14",
-        "titulo": "Resident Evil 2",
-        "imagen": "./img/pc/46.jpg",
-        "categoria": {
-            "nombre": "Bajos requisitos",
-            "id": "PCbaja"
-        },
-        "precio": 7000
+    "precio": 7000,
+    "trailer": "https://youtu.be/9WhZWySjgfc?si=1EYeI38NeyQjzWx5"
+  },
+  {
+    "id": "abrigo-103",
+    "titulo": "Need for Speed Most Wanted",
+    "imagen": "./img/pc/nfsmw.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
     },
-    {
-        "id": "abrigo-15",
-        "titulo": "Resident Evil 3",
-        "imagen": "./img/pc/47.jpg",
-        "categoria": {
-            "nombre": "Bajos requisitos",
-            "id": "PCbaja"
-        },
-        "precio": 7000
+    "precio": 7000,
+    "trailer": "https://youtu.be/ZaMTlfhW7Xg?si=867o3Q9LqW9hebBs"
+  },
+  {
+    "id": "abrigo-104",
+    "titulo": "Need for Speed Underground",
+    "imagen": "./img/pc/nfsu.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
     },
-    {
-        "id": "abrigo-16",
-        "titulo": "Crash Bandicoot",
-        "imagen": "./img/pc/032.jpg",
-        "categoria": {
-            "nombre": "Bajos requisitos",
-            "id": "PCbaja"
-        },
-        "precio": 7000
+    "precio": 7000,
+    "trailer": "https://youtu.be/Yrl3GURLPlQ?si=4lgSM2p2QX97y8kC"
+  },
+  {
+    "id": "abrigo-105",
+    "titulo": "Need for Speed Underground 2",
+    "imagen": "./img/pc/nfsu2.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
     },
-    {
-        "id": "abrigo-17",
-        "titulo": "Crash Team Racing",
-        "imagen": "./img/pc/57.jpg",
-        "categoria": {
-            "nombre": "Bajos requisitos",
-            "id": "PCbaja"
-        },
-        "precio": 7000
+    "precio": 7000,
+    "trailer": "https://www.youtube.com/watch?v=0XNX4UXcr1g"
+  },
+  {
+    "id": "abrigo-106",
+    "titulo": "Resident Evil 4",
+    "imagen": "./img/pc/residentevil4.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
     },
-    {
-        "id": "abrigo-18",
-        "titulo": "Pokémon",
-        "imagen": "./img/pc/pokemon.jpg",
-        "categoria": {
-            "nombre": "Bajos requisitos",
-            "id": "PCbaja"
-        },
-        "precio": 7000
+    "precio": 7000,
+    "trailer": "https://youtu.be/mZI81Yfc-5E?si=kWnPKWDkCO5hClRo"
+  },
+  {
+    "id": "abrigo-107",
+    "titulo": "Spiderman Ultimate",
+    "imagen": "./img/pc/spidermanultimate.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
     },
-    {
-        "id": "abrigo-19",
-        "titulo": "Mario Kart",
-        "imagen": "./img/pc/mario kart.jpg",
-        "categoria": {
-            "nombre": "Bajos requisitos",
-            "id": "PCbaja"
-        },
-        "precio": 7000
+    "precio": 7000,
+    "trailer": "https://youtu.be/szTY-uaLHTA?si=bgXbvehZstiV0QHS"
+  },
+  {
+    "id": "abrigo-108",
+    "titulo": "God of War 1",
+    "imagen": "./img/pc/gow1.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
     },
-    {
-        "id": "abrigo-20",
-        "titulo": "007 Tomorrow Never Dies",
-        "imagen": "./img/pc/54.jpg",
-        "categoria": {
-            "nombre": "Bajos requisitos",
-            "id": "PCbaja"
-        },
-        "precio": 7000
+    "precio": 7000,
+    "trailer": "https://youtu.be/oXjkfhIakG8?si=dmLLpOwSdOcGQLFp"
+  },
+  {
+    "id": "abrigo-109",
+    "titulo": "Dragon ball z budokai tenkaichi 3",
+    "imagen": "./img/pc/dbz.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
     },
-    {
-        "id": "abrigo-21",
-        "titulo": "Bugs Bunny y Taz",
-        "imagen": "./img/pc/55.jpg",
-        "categoria": {
-            "nombre": "Bajos requisitos",
-            "id": "PCbaja"
-        },
-        "precio": 7000
+    "precio": 7000,
+    "trailer": "https://youtu.be/VOc7HPtelpc?si=pWcYOH-juV1U14MA"
+  },
+  {
+    "id": "abrigo-110",
+    "titulo": "Def Jam Fight NY",
+    "imagen": "./img/pc/DJFNY.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
     },
-    {
-        "id": "abrigo-22",
-        "titulo": "Capcom vs SNK",
-        "imagen": "./img/pc/56.jpg",
-        "categoria": {
-            "nombre": "Bajos requisitos",
-            "id": "PCbaja"
-        },
-        "precio": 7000
+    "precio": 7000,
+    "trailer": "https://youtu.be/FRu20rAJPSQ?si=YCBgpZu2mYIgQ3Ff"
+  },
+  {
+    "id": "abrigo-111",
+    "titulo": "Darkwatch",
+    "imagen": "./img/pc/darkwatch.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
     },
-    {
-        "id": "abrigo-23",
-        "titulo": "Driver 1",
-        "imagen": "./img/pc/58.jpg",
-        "categoria": {
-            "nombre": "Bajos requisitos",
-            "id": "PCbaja"
-        },
-        "precio": 7000
+    "precio": 7000,
+    "trailer": "https://youtu.be/rKFrB8T4WaM?si=7skfmLh-FitJoZDR"
+  },
+  {
+    "id": "abrigo-112",
+    "titulo": "Crazy Taxi",
+    "imagen": "./img/pc/crazy-taxi.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
     },
-    {
-        "id": "abrigo-24",
-        "titulo": "Driver 2",
-        "imagen": "./img/pc/59.jpg",
-        "categoria": {
-            "nombre": "Bajos requisitos",
-            "id": "PCbaja"
-        },
-        "precio": 7000
+    "precio": 7000,
+    "trailer": "https://youtu.be/bEGe3XtbzeI?si=ixhGZibLBxqV_Ubz"
+  },
+  {
+    "id": "abrigo-113",
+    "titulo": "Conflict Vietnam",
+    "imagen": "./img/pc/conflictvietnam.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
     },
-    {
-        "id": "abrigo-25",
-        "titulo": "Harry Potter y la Cámara de los Secretos",
-        "imagen": "./img/pc/40.jpg",
-        "categoria": {
-            "nombre": "Bajos requisitos",
-            "id": "PCbaja"
-        },
-        "precio": 7000
+    "precio": 7000,
+    "trailer": "https://youtu.be/iCd_hW-_Xd8?si=UhFiIAelEZ2ESIKA"
+  },
+  {
+    "id": "abrigo-114",
+    "titulo": "Burnout 3 takedown",
+    "imagen": "./img/pc/burnout-3-takedown.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
     },
-    {
-        "id": "abrigo-26",
-        "titulo": "Harry Potter y la Piedra Filosofal",
-        "imagen": "./img/pc/60.jpg",
-        "categoria": {
-            "nombre": "Bajos requisitos",
-            "id": "PCbaja"
-        },
-        "precio": 7000
+    "precio": 7000,
+    "trailer": "https://youtu.be/etFuNUSrgXw?si=p0CuFd1YfYrEgGZD"
+  },
+  {
+    "id": "abrigo-115",
+    "titulo": "Dragon ball z budokai tenkaichi 2",
+    "imagen": "./img/pc/dragon-ball-z-budokai-tenkaichi-2.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
     },
-    {
-        "id": "abrigo-27",
-        "titulo": "Jackie Chan Stuntmaster",
-        "imagen": "./img/pc/41.jpg",
-        "categoria": {
-            "nombre": "Bajos requisitos",
-            "id": "PCbaja"
-        },
-        "precio": 7000
+    "precio": 7000,
+    "trailer": "https://youtu.be/6KvjLdAGIgA?si=mDxQY7CUijSIlSiK"
+  },
+  {
+    "id": "abrigo-116",
+    "titulo": "Dragon ball z budokai tenkaichi",
+    "imagen": "./img/pc/dragon-ball-z-budokai-tenkaichi.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
     },
-    {
-        "id": "abrigo-28",
-        "titulo": "Medal of Honor Underground",
-        "imagen": "./img/pc/42.jpg",
-        "categoria": {
-            "nombre": "Bajos requisitos",
-            "id": "PCbaja"
-        },
-        "precio": 7000
+    "precio": 7000,
+    "trailer": "https://youtu.be/_LWL5oitCrU?si=gRRyCJi0ALZII-kA"
+  },
+  {
+    "id": "abrigo-117",
+    "titulo": "Driver 3",
+    "imagen": "./img/pc/driv3r.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
     },
-    {
-        "id": "abrigo-29",
-        "titulo": "Metal Slug X",
-        "imagen": "./img/pc/43.jpg",
-        "categoria": {
-            "nombre": "Bajos requisitos",
-            "id": "PCbaja"
-        },
-        "precio": 7000
+    "precio": 7000,
+    "trailer": "https://youtu.be/MLpqhEQ78LY?si=Bq3mm5MpnTlhqjPZ"
+  },
+  {
+    "id": "abrigo-118",
+    "titulo": "Freedom Fighters",
+    "imagen": "./img/pc/freedomfighters.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
     },
-    {
-        "id": "abrigo-30",
-        "titulo": "Mortal Kombat Trilogy",
-        "imagen": "./img/pc/112.jpg",
-        "categoria": {
-            "nombre": "Bajos requisitos",
-            "id": "PCbaja"
-        },
-        "precio": 7000
+    "precio": 7000,
+    "trailer": "https://www.youtube.com/watch?v=HUmVcrOiDrk"
+  },
+  {
+    "id": "abrigo-119",
+    "titulo": "Ghost Recon AW",
+    "imagen": "./img/pc/GhostReconAW.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
     },
-    {
-        "id": "abrigo-31",
-        "titulo": "NASCAR Thunder 2004",
-        "imagen": "./img/pc/44.jpg",
-        "categoria": {
-            "nombre": "Bajos requisitos",
-            "id": "PCbaja"
-        },
-        "precio": 7000
+    "precio": 7000,
+    "trailer": "https://youtu.be/qO7YDmGcX2M?si=mT8tk3r3uGOY3ht1"
+  },
+  {
+    "id": "abrigo-120",
+    "titulo": "God of War 2",
+    "imagen": "./img/pc/gow2.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
     },
-    {
-        "id": "abrigo-32",
-        "titulo": "Need for Speed Porsche",
-        "imagen": "./img/pc/45.jpg",
-        "categoria": {
-            "nombre": "Bajos requisitos",
-            "id": "PCbaja"
-        },
-        "precio": 7000
+    "precio": 7000,
+    "trailer": "https://youtu.be/obsNtQtOwwE?si=JBhN1U3TtsQRChkt"
+  },
+  {
+    "id": "abrigo-121",
+    "titulo": "Gran Turismo 4",
+    "imagen": "./img/pc/gt4.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
     },
-    {
-        "id": "abrigo-33",
-        "titulo": "Road Rash Jailbreak",
-        "imagen": "./img/pc/48.jpg",
-        "categoria": {
-            "nombre": "Bajos requisitos",
-            "id": "PCbaja"
-        },
-        "precio": 7000
+    "precio": 7000,
+    "trailer": "https://youtu.be/BYhNvLHzgjw?si=0FCHSUrj1dkF2hdm"
+  },
+  {
+    "id": "abrigo-122",
+    "titulo": "Grand Theft Auto Vice City",
+    "imagen": "./img/pc/gtavc.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
     },
-    {
-        "id": "abrigo-34",
-        "titulo": "Silent Hill",
-        "imagen": "./img/pc/49.jpg",
-        "categoria": {
-            "nombre": "Bajos requisitos",
-            "id": "PCbaja"
-        },
-        "precio": 7000
+    "precio": 7000,
+    "trailer": "https://youtu.be/9Sp10v7uTmM?si=LQuKUMHeUjfDIMzD"
+  },
+  {
+    "id": "abrigo-123",
+    "titulo": "Grand Theft Auto Liberty City Stories",
+    "imagen": "./img/pc/gtalcs.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
     },
-    {
-        "id": "abrigo-35",
-        "titulo": "Spider-Man",
-        "imagen": "./img/pc/50.jpg",
-        "categoria": {
-            "nombre": "Bajos requisitos",
-            "id": "PCbaja"
-        },
-        "precio": 7000
+    "precio": 7000,
+    "trailer": "https://youtu.be/qNV_qvziJhU?si=mNFF2Ia-z3WkooKc"
+  },
+  {
+    "id": "abrigo-124",
+    "titulo": "Grand Theft Auto Vice City Stories",
+    "imagen": "./img/pc/gtavcs.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
     },
-    {
-        "id": "abrigo-36",
-        "titulo": "Syphon Filter",
-        "imagen": "./img/pc/51.jpg",
-        "categoria": {
-            "nombre": "Bajos requisitos",
-            "id": "PCbaja"
-        },
-        "precio": 7000
+    "precio": 7000,
+    "trailer": "https://youtu.be/r_QpSvjKars?si=dsopd9trJjhwFVnW"
+  },
+  {
+    "id": "abrigo-125",
+    "titulo": "The King of Fighters 2002",
+    "imagen": "./img/pc/kof2002.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
     },
-    {
-        "id": "abrigo-37",
-        "titulo": "Syphon Filter 3",
-        "imagen": "./img/pc/52.jpg",
-        "categoria": {
-            "nombre": "Bajos requisitos",
-            "id": "PCbaja"
-        },
-        "precio": 7000
+    "precio": 7000,
+    "trailer": "https://youtu.be/YNfD5ndPSjs?si=SUT1J6yM9vaCLlhw"
+  },
+  {
+    "id": "abrigo-126",
+    "titulo": "Mafia",
+    "imagen": "./img/pc/mafia.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
     },
-    {
-        "id": "abrigo-38",
-        "titulo": "Tony Hawk's Pro Skater 4",
-        "imagen": "./img/pc/53.jpg",
-        "categoria": {
-            "nombre": "Bajos requisitos",
-            "id": "PCbaja"
-        },
-        "precio": 7000
+    "precio": 7000,
+    "trailer": "https://youtu.be/lT_BoQiwUKo?si=rbWXTZ0yv-0NXeOi"
+  },
+  {
+    "id": "abrigo-127",
+    "titulo": "Metal Gear Solid 2 sons of liberty",
+    "imagen": "./img/pc/metal-gear-solid-2-sons-of-liberty.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
     },
-    {
-        "id": "abrigo-39",
-        "titulo": "Acceso a todo el catálogo",
-        "imagen": "./img/pc/todos.jpg",
-        "categoria": {
-            "nombre": "Requieren que su computador tenga tarjeta gráfica",
-            "id": "PCalta"
-        },
-        "precio": 70000
-    }
+    "precio": 7000,
+    "trailer": "https://youtu.be/tvt0hqnJwqI?si=z9MMjKdmVjfAws3K"
+  },
+  {
+    "id": "abrigo-128",
+    "titulo": "Need for Speed Carbon",
+    "imagen": "./img/pc/nfsc.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 7000,
+    "trailer": "https://youtu.be/QLtNZp5OzwA?si=fpHjZvom6WvbyBCN"
+  },
+  {
+    "id": "abrigo-129",
+    "titulo": "Need for Speed Pro Street",
+    "imagen": "./img/pc/nfsprostreet.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 7000,
+    "trailer": "https://youtu.be/1P4sO_vrw5w?si=umy8_8NpwV6eOeBO"
+  },
+  {
+    "id": "abrigo-130",
+    "titulo": "Need for Spped Undercover",
+    "imagen": "./img/pc/nfsundercover.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 7000,
+    "trailer": "https://youtu.be/zdtxCQq8JJc?si=RpblS2pth9chP7vg"
+  },
+  {
+    "id": "abrigo-131",
+    "titulo": "PES 2014",
+    "imagen": "./img/pc/PES2014.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 7000,
+    "trailer": "https://youtu.be/elngvtg6OI4?si=1eDYkMMv2lCMKXib"
+  },
+  {
+    "id": "abrigo-132",
+    "titulo": "Return to the Castle Wolfenstein",
+    "imagen": "./img/pc/return.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 7000,
+    "trailer": "https://youtu.be/eJ6_jRCt07A?si=95OZjpnumVIwHbQU"
+  },
+  {
+    "id": "abrigo-133",
+    "titulo": "Silent Hill 2",
+    "imagen": "./img/pc/silenthill2.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 7000,
+    "trailer": "https://youtu.be/JZZqNAdQAk0?si=Bmf5QCyL4gOCegXu"
+  },
+  {
+    "id": "abrigo-134",
+    "titulo": "Simpsons Hit and Run",
+    "imagen": "./img/pc/SimpsonsHR.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 7000,
+    "trailer": "https://youtu.be/1n2shCnSXsU?si=3hf7P5VPcFXAtNUE"
+  },
+  {
+    "id": "abrigo-135",
+    "titulo": "Tekken 5",
+    "imagen": "./img/pc/Tekken5.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 7000,
+    "trailer": "https://youtu.be/KzETkpUSNiY?si=QMssxmJSIZ2SSa1C"
+  },
+  {
+    "id": "abrigo-136",
+    "titulo": "True Crime NY",
+    "imagen": "./img/pc/TrueCrimeNY.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 7000,
+    "trailer": "https://youtu.be/Cnmk0qBWWmc?si=1HrepyexgqwvI6Tz"
+  },
+  {
+    "id": "abrigo-137",
+    "titulo": "True Crime LA",
+    "imagen": "./img/pc/TrueCrimeLA.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 7000,
+    "trailer": "https://youtu.be/b2wBNiQ2hWc?si=buTGfe6zb6iO0Qy5"
+  },
+  {
+    "id": "abrigo-138",
+    "titulo": "18 wheeler american",
+    "imagen": "./img/pc/18-wheeler-american-pro-trucker.jpeg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 7000,
+    "trailer": "https://youtu.be/EvMlXhn7I-c?si=T_kjvCbzlEw8t67K"
+  },
+  {
+    "id": "abrigo-139",
+    "titulo": "187 ride or ride",
+    "imagen": "./img/pc/187-ride-or-ride.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 7000,
+    "trailer": "https://youtu.be/eiR9pOi7auo?si=V5t4v9VugrGUzloH"
+  },
+  {
+    "id": "abrigo-140",
+    "titulo": "Ace combat 5",
+    "imagen": "./img/pc/ace-combat-5.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 7000,
+    "trailer": "https://youtu.be/ST-7G8EfM8E?si=djkb6hU0DNI7Ss78"
+  },
+  {
+    "id": "abrigo-141",
+    "titulo": "Airborne troops countdown to d day",
+    "imagen": "./img/pc/airborne-troops-countdown-to-d-day.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 7000,
+    "trailer": "https://youtu.be/_iNfbB-ALjo?si=WCEkQNiSVgHDOXmA"
+  },
+  {
+    "id": "abrigo-142",
+    "titulo": "Bad boys miami takedown",
+    "imagen": "./img/pc/bad-boys-miami-takedown.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 7000,
+    "trailer": "https://youtu.be/yj7u8SU0zRw?si=f1b-q_6y-uNQBoh4"
+  },
+  {
+    "id": "abrigo-143",
+    "titulo": "Batman begins",
+    "imagen": "./img/pc/batman-begins.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 7000,
+    "trailer": "https://youtu.be/UpYHXB1dQsY?si=Oeb8Fe3oOPUZEvO7"
+  },
+  {
+    "id": "abrigo-144",
+    "titulo": "Super Bikes",
+    "imagen": "./img/pc/bikes.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 7000,
+    "trailer": "https://youtu.be/1K7GSVyKfSw?si=mIesYlMrAxZ552KT"
+  },
+  {
+    "id": "abrigo-145",
+    "titulo": "Blade 2",
+    "imagen": "./img/pc/blade2.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 7000,
+    "trailer": "https://youtu.be/g6ppKASivb4?si=Yt31KIFd38kllPKu"
+  },
+  {
+    "id": "abrigo-146",
+    "titulo": "Burnout 2 point of impact",
+    "imagen": "./img/pc/burnout-2-point-of-impact.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 7000,
+    "trailer": "https://youtu.be/e-XhCOQ5-Bs?si=ImKGrfNc6xs4ujlX"
+  },
+  {
+    "id": "abrigo-147",
+    "titulo": "Burnout",
+    "imagen": "./img/pc/burnout-ps2.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 7000,
+    "trailer": "https://youtu.be/1igpRJ_wTNo?si=Q33eOR5nLeuZ2lrj"
+  },
+  {
+    "id": "abrigo-148",
+    "titulo": "Call of duty 3",
+    "imagen": "./img/pc/call-of-duty-3.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 7000,
+    "trailer": "https://youtu.be/rIeykDMEA8Q?si=tTF-uv9cLpyCTfcQ"
+  },
+  {
+    "id": "abrigo-149",
+    "titulo": "Cars",
+    "imagen": "./img/pc/cars.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 7000,
+    "trailer": "https://youtu.be/jOT-kfbMHoY?si=ccFAQH7Fct0jZ1AL"
+  },
+  {
+    "id": "abrigo-150",
+    "titulo": "Cold Fear",
+    "imagen": "./img/pc/ColdFear.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 7000,
+    "trailer": "https://youtu.be/fAYppddSyuU?si=sn33lGsSawlxRhdP"
+  },
+  {
+    "id": "abrigo-151",
+    "titulo": "Constantine",
+    "imagen": "./img/pc/constantine.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 7000,
+    "trailer": "https://youtu.be/r5PDWyHl8mw?si=q3kvu5fUf_eFgyNQ"
+  },
+  {
+    "id": "abrigo-152",
+    "titulo": "Driver parallel lines",
+    "imagen": "./img/pc/driver-parallel-lines.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 7000,
+    "trailer": "https://youtu.be/rS6YHp5zfiY?si=tp2PvCw7Zr4tmh_2"
+  },
+  {
+    "id": "abrigo-153",
+    "titulo": "Fifa 14",
+    "imagen": "./img/pc/Fifa14.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 7000,
+    "trailer": "https://youtu.be/IxrEOS2c_fA?si=txCEBAQCsq9Xt3uq"
+  },
+  {
+    "id": "abrigo-154",
+    "titulo": "Gran Turismo 3",
+    "imagen": "./img/pc/gran-turismo-3-a-spec.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 7000,
+    "trailer": "https://youtu.be/IjXRRZKyZ54?si=GTbXV_TKik46ylhF"
+  },
+  {
+    "id": "abrigo-155",
+    "titulo": "Guitar Hero metallica",
+    "imagen": "./img/pc/guitar-hero-metallica.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 7000,
+    "trailer": "https://youtu.be/TSuOTPNiOns?si=m6t2eGAqYxEfgK9r"
+  },
+  {
+    "id": "abrigo-156",
+    "titulo": "Guitar Hero world tour",
+    "imagen": "./img/pc/guitar-hero-world-tour.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 7000,
+    "trailer": "https://youtu.be/Rr9k-v8z5WI?si=no8WcZ3Cs_51aS-2"
+  },
+  {
+    "id": "abrigo-157",
+    "titulo": "Harry Potter y la orden del fenix",
+    "imagen": "./img/pc/harry-potter-y-la-orden-del-fenix.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 7000,
+    "trailer": "https://youtu.be/tC1C7Lz8Q3E?si=O7uXAgdO6GeV5rYa"
+  },
+  {
+    "id": "abrigo-158",
+    "titulo": "Hitman contracts",
+    "imagen": "./img/pc/hitman-contracts.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 7000,
+    "trailer": "https://youtu.be/tBTU9GiVbaE?si=Xi4OeetnpsZLPZie"
+  },
+  {
+    "id": "abrigo-159",
+    "titulo": "Hitman 2 Silent Assassin",
+    "imagen": "./img/pc/Hitman2SA.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 7000,
+    "trailer": "https://youtu.be/Gm4g4GlMnKw?si=G4onSWDff1g6N4yE"
+  },
+  {
+    "id": "abrigo-160",
+    "titulo": "Indiana Jones and the emperors tomb",
+    "imagen": "./img/pc/indiana-jones-and-the-emperors-tomb.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 7000,
+    "trailer": "https://youtu.be/uX524XXrms8?si=oc7JclLUWmBtd52J"
+  },
+  {
+    "id": "abrigo-161",
+    "titulo": "Lord of the Rings the return of the king",
+    "imagen": "./img/pc/lord-of-the-rings-the-return-of-the-king.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 7000,
+    "trailer": "https://youtu.be/4iI6uT_0Dhw?si=Yf65ax5Df9pKMuGU"
+  },
+  {
+    "id": "abrigo-162",
+    "titulo": "Los Increibles",
+    "imagen": "./img/pc/los-increibles.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 7000,
+    "trailer": "https://youtu.be/fBMta_suIBQ?si=Ud0uj-OUXbMW8AO7"
+  },
+  {
+    "id": "abrigo-163",
+    "titulo": "Max payne 2",
+    "imagen": "./img/pc/max-payne-2.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 7000,
+    "trailer": "https://youtu.be/AZX3iJV5UHE?si=rCAanUkEqNQ5LVpw"
+  },
+  {
+    "id": "abrigo-164",
+    "titulo": "Medal of honor european assault",
+    "imagen": "./img/pc/medal-of-honor-european-assault.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 7000,
+    "trailer": "https://youtu.be/piTgb_4t5-k?si=CWm4VdunJpWBW-Ub"
+  },
+  {
+    "id": "abrigo-165",
+    "titulo": "Medal of honor frontline",
+    "imagen": "./img/pc/medal-of-honor-frontline.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 7000,
+    "trailer": "https://youtu.be/fXGC-rpAYqg?si=obnPyE0caQhlIUcC"
+  },
+  {
+    "id": "abrigo-166",
+    "titulo": "Medal of honor rising sun",
+    "imagen": "./img/pc/medal-of-honor-rising-sun.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 7000,
+    "trailer": "https://youtu.be/RpKQXZBnDVk?si=Hi-aqzQRM2pTtQbl"
+  },
+  {
+    "id": "abrigo-167",
+    "titulo": "Medal of honor vanguard",
+    "imagen": "./img/pc/medal-of-honor-vanguard.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 7000,
+    "trailer": "https://youtu.be/oiQtTEwP8zo?si=JywdKs_0Cm_w2FZn"
+  },
+  {
+    "id": "abrigo-168",
+    "titulo": "Midnight Club 3",
+    "imagen": "./img/pc/MidnightClub3.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 7000,
+    "trailer": "https://youtu.be/BOmgTAYvb70?si=wJLYsk4NT5SgvuA5"
+  },
+  {
+    "id": "abrigo-169",
+    "titulo": "Mortal Kombat Deception",
+    "imagen": "./img/pc/mortalkombatdeception.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 7000,
+    "trailer": "https://youtu.be/1-J88ROhAhs?si=--fxU1IdTebdCF6V"
+  },
+  {
+    "id": "abrigo-170",
+    "titulo": "Naruto",
+    "imagen": "./img/pc/naruto.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 7000,
+    "trailer": "https://youtu.be/jpXhFjFpvNk?si=JDjj5LMdslF56Fbl"
+  },
+  {
+    "id": "abrigo-171",
+    "titulo": "Nascar 2007",
+    "imagen": "./img/pc/Nascar2007.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 7000,
+    "trailer": "https://youtu.be/gtPE6AiI8bg?si=A7wD1dt9ZqsIhXr5"
+  },
+  {
+    "id": "abrigo-172",
+    "titulo": "Padrino",
+    "imagen": "./img/pc/padrino.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 7000,
+    "trailer": "https://youtu.be/n1AF13pt0sk?si=UMlrckjrzVHT-ASK"
+  },
+  {
+    "id": "abrigo-173",
+    "titulo": "Piratas del Caribe",
+    "imagen": "./img/pc/PiratasdelCaribe.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 7000,
+    "trailer": "https://youtu.be/db3STqoeEY8?si=C67k4C01wU6O7kwg"
+  },
+  {
+    "id": "abrigo-174",
+    "titulo": "Principe de Persia the two thrones",
+    "imagen": "./img/pc/prince-of-persia-the-two-thrones.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 7000,
+    "trailer": "https://youtu.be/2fMATKkJ1co?si=jgQuSoYR_wT_tkyn"
+  },
+  {
+    "id": "abrigo-175",
+    "titulo": "Principe de Persia Arenas del Tiempo",
+    "imagen": "./img/pc/PrincipedePersiaST.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 7000,
+    "trailer": "https://youtu.be/UmK51OxBAwI?si=EcsXSDZfaRiwPJqH"
+  },
+  {
+    "id": "abrigo-176",
+    "titulo": "Scarface",
+    "imagen": "./img/pc/Scarface.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 7000,
+    "trailer": "https://youtu.be/HfMuLY3ywAU?si=ZEoTupYwKjo7SF3S"
+  },
+  {
+    "id": "abrigo-177",
+    "titulo": "Silent Hill 3",
+    "imagen": "./img/pc/silenthill3.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 7000,
+    "trailer": "https://youtu.be/iprxfuI01GA?si=OjfRkIuqLfaIaeEG"
+  },
+  {
+    "id": "abrigo-178",
+    "titulo": "Silent Hill 4",
+    "imagen": "./img/pc/silenthill4.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 7000,
+    "trailer": "https://youtu.be/h9F_Nb9X0ng?si=1wyyqpEEbFnWoX31"
+  },
+  {
+    "id": "abrigo-179",
+    "titulo": "Spiderman 2 ps2",
+    "imagen": "./img/pc/spiderman2ps2.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 7000,
+    "trailer": "https://youtu.be/jr-rT9wVJ20?si=wdZWnLx4pUV2AvV8"
+  },
+  {
+    "id": "abrigo-180",
+    "titulo": "Spiderman Web Shadows",
+    "imagen": "./img/pc/spidermanws.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 7000,
+    "trailer": "https://youtu.be/704cXnn0NCI?si=4HZLcH51tOXjFjcu"
+  },
+  {
+    "id": "abrigo-181",
+    "titulo": "Splinter  Cell Pandora Tomorrow",
+    "imagen": "./img/pc/SplinterCellPT.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 7000,
+    "trailer": "https://youtu.be/UFdwyy9JMZ8?si=VqrMvUioepTGslmm"
+  },
+  {
+    "id": "abrigo-182",
+    "titulo": "Urban Chaos",
+    "imagen": "./img/pc/UrbanChaos.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 7000,
+    "trailer": "https://youtu.be/RhWfQXz7Yg4?si=XfijhEmTRAMeBMDp"
+  },
+  {
+    "id": "abrigo-183",
+    "titulo": "World Rally Championship",
+    "imagen": "./img/pc/wrc.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 7000,
+    "trailer": "https://youtu.be/jw_gdbZbGDY?si=L5cq5904wnK9s3tP"
+  },
+  {
+    "id": "abrigo-184",
+    "titulo": "WW II Europa",
+    "imagen": "./img/pc/ww2europa.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 7000,
+    "trailer": "https://youtu.be/fK_TrpCnnpg?si=mGLQtkZbjTBFo7Vf"
+  },
+  {
+    "id": "abrigo-185",
+    "titulo": "WW II Pacifico",
+    "imagen": "./img/pc/ww2pacifico.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 7000,
+    "trailer": "https://youtu.be/JCe1xgJUwCE?si=6XmTGfWYy2zo90mr"
+  },
+  {
+    "id": "abrigo-200",
+    "titulo": "007 Goldeneye",
+    "imagen": "./img/pc/goldeneye.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PC"
+    },
+    "precio": 7000,
+    "trailer": "https://www.youtube.com/live/4asD8IBxUsM?si=r4CvJFZsDM6fALi4"
+  },
+  {
+    "id": "abrigo-201",
+    "titulo": "Pokemon Stadium",
+    "imagen": "./img/pc/pokemonstadium.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PC"
+    },
+    "precio": 7000,
+    "trailer": "https://youtu.be/h0LG37pwgzs?si=-3LMn8byMO_Uyx7r"
+  },
+  {
+    "id": "abrigo-202",
+    "titulo": "Pepsiman",
+    "imagen": "./img/pc/132.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 7000,
+    "trailer": "https://youtu.be/JQdetlwdjrE?si=PFD-4r-gzYat_hOM"
+  },
+  {
+    "id": "abrigo-203",
+    "titulo": "Resident Evil 2",
+    "imagen": "./img/pc/46.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 7000,
+    "trailer": "https://youtu.be/qV4lnLvB6O4?si=eq9Yvbo7Kh2cQHnp"
+  },
+  {
+    "id": "abrigo-204",
+    "titulo": "Resident Evil 3",
+    "imagen": "./img/pc/47.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 7000,
+    "trailer": "https://youtu.be/gK-ZhZPgl7s?si=aJZbG9ZvmnRugXIF"
+  },
+  {
+    "id": "abrigo-205",
+    "titulo": "Crash Bandicoot",
+    "imagen": "./img/pc/032.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 7000,
+    "trailer": "https://youtu.be/IGfuTvUISrA?si=MZsdDp6pXHmTaZJG"
+  },
+  {
+    "id": "abrigo-206",
+    "titulo": "Crash Team Racing",
+    "imagen": "./img/pc/57.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 7000,
+    "trailer": "https://youtu.be/r6DvJI1ktvU?si=-SoMZaRmwXft4wjN"
+  },
+  {
+    "id": "abrigo-207",
+    "titulo": "Pokemon",
+    "imagen": "./img/pc/pokemon.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 7000,
+    "trailer": "https://youtu.be/bQGewoJti_g?si=yiJJKQO3vwQG892G"
+  },
+  {
+    "id": "abrigo-208",
+    "titulo": "Mario Kart",
+    "imagen": "./img/pc/mario kart.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 7000,
+    "trailer": "https://youtu.be/rG7wddEt8W0?si=gtGp6LuD59h42iXj"
+  },
+  {
+    "id": "abrigo-209",
+    "titulo": "Driver 2",
+    "imagen": "./img/pc/59.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 7000,
+    "trailer": "https://youtu.be/xCSwtp_7TJ8?si=-A_8tylS-tHkuGW4"
+  },
+  {
+    "id": "abrigo-210",
+    "titulo": "Medal of Honor Underground",
+    "imagen": "./img/pc/42.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 7000,
+    "trailer": "https://youtu.be/wMyDHgSJCH0?si=aEx9lq291bEZMlDb"
+  },
+  {
+    "id": "abrigo-211",
+    "titulo": "Nascar Rumble",
+    "imagen": "./img/pc/NascarRumble.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 7000,
+    "trailer": "https://youtu.be/wuMZoOskcD4?si=gwYwaOpW8hy5RlT-"
+  },
+  {
+    "id": "abrigo-212",
+    "titulo": "PES 2002",
+    "imagen": "./img/pc/PES2002.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 7000,
+    "trailer": "https://youtu.be/KTByTTUqfD4?si=5OQz73asV9Jzhkm7"
+  },
+  {
+    "id": "abrigo-213",
+    "titulo": "Winning Eleven 2002",
+    "imagen": "./img/pc/WinningEleven2002.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 7000,
+    "trailer": "https://youtu.be/KTByTTUqfD4?si=5OQz73asV9Jzhkm7"
+  },
+  {
+    "id": "abrigo-214",
+    "titulo": "Soccer pro 98",
+    "imagen": "./img/pc/pro98.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 7000,
+    "trailer": "https://youtu.be/J0N_wpbR8GQ?si=zDUoJuWvzX2lEW_O"
+  },
+  {
+    "id": "abrigo-215",
+    "titulo": "Resident evil survivor",
+    "imagen": "./img/pc/ResidentEvilSurvivor.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 7000,
+    "trailer": "https://youtu.be/N56UMSZWPBU?si=1pH4938f-bYQr5Ws"
+  },
+  {
+    "id": "abrigo-216",
+    "titulo": "Vigilante 8",
+    "imagen": "./img/pc/Vigilante8.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 7000,
+    "trailer": "https://youtu.be/23-aYZtsKk8?si=_k_clxG-T9rE2l4q"
+  },
+  {
+    "id": "abrigo-217",
+    "titulo": "Vigilante 8 2nd Off",
+    "imagen": "./img/pc/Vigilante82.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 7000,
+    "trailer": "https://youtu.be/G1n8oNYcSm8?si=vhGd6kUZphGYZgi7"
+  },
+  {
+    "id": "abrigo-218",
+    "titulo": "Yu-Gi-Oh",
+    "imagen": "./img/pc/yugioh.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 7000,
+    "trailer": "https://youtu.be/JVS8VTlBGrY?si=rsNOTcUm2ajMZ1xK"
+  },
+  {
+    "id": "abrigo-219",
+    "titulo": "Twisted Metal 4",
+    "imagen": "./img/pc/TwistedMetal4.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 7000,
+    "trailer": "https://youtu.be/9Jx9fVQcU5A?si=CRlV0N3RW08O1r7_"
+  },
+  {
+    "id": "abrigo-220",
+    "titulo": "Dragon Ball GT",
+    "imagen": "./img/pc/DragonBallGT.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 7000,
+    "trailer": "https://youtu.be/HXF5ZF7PeoM?si=t8PrRGsI1Pq1RPmX"
+  },
+  {
+    "id": "abrigo-221",
+    "titulo": "Dragon Ball Z",
+    "imagen": "./img/pc/DragonBallZ.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 7000,
+    "trailer": "https://youtu.be/WTzYzPUq_as?si=PYTOAQdwWRjtYxff"
+  },
+  {
+    "id": "abrigo-222",
+    "titulo": "Metal Slug X",
+    "imagen": "./img/pc/43.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 7000,
+    "trailer": "https://youtu.be/QG-1pAbRXnk?si=GizJU6pPzpGw5fuH"
+  },
+  {
+    "id": "abrigo-223",
+    "titulo": "Mortal Kombat Trilogy",
+    "imagen": "./img/pc/112.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 7000,
+    "trailer": "https://youtu.be/JBY63fGBCBI?si=RWRbx50CEXSuwTNl"
+  },
+  {
+    "id": "abrigo-224",
+    "titulo": "Medal of honor",
+    "imagen": "./img/pc/MedalOfHonor.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 7000,
+    "trailer": "https://youtu.be/rJBmYFxYvRI?si=DMN_MBkLFkDDPuJf"
+  },
+  {
+    "id": "abrigo-225",
+    "titulo": "Mortal Kombat 4",
+    "imagen": "./img/pc/MortalKombat4.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 7000,
+    "trailer": "https://youtu.be/s0iyE5dw87o?si=6x3EprDqeEFNiKWX"
+  },
+  {
+    "id": "abrigo-226",
+    "titulo": "Need for Speed High Stakes",
+    "imagen": "./img/pc/nfshs.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 7000,
+    "trailer": "https://youtu.be/SHB4GWsh79o?si=Ln4CRPudsR7DzkHc"
+  },
+  {
+    "id": "abrigo-227",
+    "titulo": "Jackie Chan Stuntmaster",
+    "imagen": "./img/pc/41.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 7000,
+    "trailer": "https://youtu.be/1M8cgtQUgYs?si=B1QB17kgCLjPG66k"
+  },
+  {
+    "id": "abrigo-228",
+    "titulo": "Driver 1",
+    "imagen": "./img/pc/58.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 7000,
+    "trailer": "https://youtu.be/2b8p2IqQGYc?si=XkF-HOxwjeBJk-9m"
+  },
+  {
+    "id": "abrigo-229",
+    "titulo": "CART World Series",
+    "imagen": "./img/pc/cart.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PC"
+    },
+    "precio": 7000,
+    "trailer": "https://youtu.be/EhOE98LrwP8?si=0HEEXmsrENTzAbpw"
+  },
+  {
+    "id": "abrigo-230",
+    "titulo": "FIFA 2005",
+    "imagen": "./img/pc/fifa.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PC"
+    },
+    "precio": 7000,
+    "trailer": "https://youtu.be/XsZkUmObalg?si=UHrx2VXDBZUsnF_a"
+  },
+  {
+    "id": "abrigo-231",
+    "titulo": "Silent Hill",
+    "imagen": "./img/pc/49.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 7000,
+    "trailer": "https://youtu.be/4l7-8KzY0mg?si=zH_hrLTg5EFaVSdW"
+  },
+  {
+    "id": "abrigo-232",
+    "titulo": "Spider-Man",
+    "imagen": "./img/pc/50.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 7000,
+    "trailer": "https://youtu.be/PodoJuXfsfA?si=5rgPvriOVh6aZidT"
+  },
+  {
+    "id": "abrigo-233",
+    "titulo": "Coyote Sheep Raider",
+    "imagen": "./img/pc/coyote.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 7000,
+    "trailer": "https://youtu.be/dse7uLyQNHA?si=TPirrjtpVxpTG38i"
+  },
+  {
+    "id": "abrigo-234",
+    "titulo": "Gran Turismo 2",
+    "imagen": "./img/pc/GT2.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 7000,
+    "trailer": "https://youtu.be/e87QdtXSY1Q?si=_kEmFEtPYvfnbd34"
+  },
+  {
+    "id": "abrigo-235",
+    "titulo": "Gran Turismo",
+    "imagen": "./img/pc/GT.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 7000,
+    "trailer": "https://youtu.be/XqlFs3s2JNM?si=MMNHwc-fg90a0fZC"
+  },
+  {
+    "id": "abrigo-236",
+    "titulo": "Hercules",
+    "imagen": "./img/pc/Hercules.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 7000,
+    "trailer": "https://youtu.be/H-tK7v9LquQ?si=kV_vZcaJODm04k9b"
+  },
+  {
+    "id": "abrigo-237",
+    "titulo": "Soul Reaver",
+    "imagen": "./img/pc/soulreaver.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 7000,
+    "trailer": "https://youtu.be/7yBabXTDXz8?si=VRVC8VT0ziJk0coj"
+  },
+  {
+    "id": "abrigo-238",
+    "titulo": "Spiderman 2",
+    "imagen": "./img/pc/spiderman2.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 7000,
+    "trailer": "https://youtu.be/T6sNZTLgjXU?si=OFk8hx-JGRmWHQ6a"
+  },
+  {
+    "id": "abrigo-239",
+    "titulo": "Tarzan",
+    "imagen": "./img/pc/Tarzan.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 7000,
+    "trailer": "https://youtu.be/6eVjCUg6gvQ?si=h57fNAHOHaEMme62"
+  },
+  {
+    "id": "abrigo-240",
+    "titulo": "Toy Story 2",
+    "imagen": "./img/pc/toystory.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 7000,
+    "trailer": "https://www.youtube.com/live/oYctKYlpfJY?si=e5iG69q0DYB0k7XH"
+  },
+  {
+    "id": "abrigo-241",
+    "titulo": "Bugs Bunny y Taz",
+    "imagen": "./img/pc/55.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PC"
+    },
+    "precio": 7000,
+    "trailer": "https://youtu.be/PApGMc_RiFs?si=EQGcLDBGwTuFtLtF"
+  },
+  {
+    "id": "abrigo-242",
+    "titulo": "Road Rash Jailbreak",
+    "imagen": "./img/pc/48.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 7000,
+    "trailer": "https://youtu.be/SWztdgF94CU?si=p4B7FaS8ucu5u1gk"
+  },
+  {
+    "id": "abrigo-243",
+    "titulo": "Crash 2",
+    "imagen": "./img/pc/Crash2.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 7000,
+    "trailer": "https://youtu.be/lw-4DNQnsD8?si=G7g2nWRT55rHuX-D"
+  },
+  {
+    "id": "abrigo-244",
+    "titulo": "Crash 3",
+    "imagen": "./img/pc/Crash3.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 7000,
+    "trailer": "https://youtu.be/3qrM8Fxsn0E?si=NIqtVXxImCWnk0P7"
+  },
+  {
+    "id": "abrigo-245",
+    "titulo": "Digimon",
+    "imagen": "./img/pc/Digimon.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 7000,
+    "trailer": "https://youtu.be/rQJ3aB6_ZFE?si=_T4wE8uTkDdYt8YL"
+  },
+  {
+    "id": "abrigo-246",
+    "titulo": "Formula 1 2001",
+    "imagen": "./img/pc/Formula12001.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 7000,
+    "trailer": "https://youtu.be/l9ethAEl03U?si=E3eHNR48EX1SBY3F"
+  },
+  {
+    "id": "abrigo-247",
+    "titulo": "King Of Fighters 97",
+    "imagen": "./img/pc/KOF97.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 7000,
+    "trailer": "https://youtu.be/WgjW-KHLN0w?si=HGIdCK-zwi3c7jt6"
+  },
+  {
+    "id": "abrigo-248",
+    "titulo": "Los Simpsons",
+    "imagen": "./img/pc/LosSimsonpPelea.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 7000,
+    "trailer": "https://youtu.be/fkanuXsjGb0?si=VWUZm9xRDv4pd1_P"
+  },
+  {
+    "id": "abrigo-249",
+    "titulo": "OddWorld",
+    "imagen": "./img/pc/OddWorld.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 7000,
+    "trailer": "https://youtu.be/1e6EuIik4ag?si=j4_fOAU-O8rWa2-K"
+  },
+  {
+    "id": "abrigo-250",
+    "titulo": "Spyro 2",
+    "imagen": "./img/pc/Spyro2.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 7000,
+    "trailer": "https://youtu.be/kAC6TCnLjDE?si=XEy-01UzwczHQzaN"
+  },
+  {
+    "id": "abrigo-251",
+    "titulo": "Spyro",
+    "imagen": "./img/pc/Spyro.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 7000,
+    "trailer": "https://youtu.be/G9DAlYCVxs4?si=e3EdHa6uIXkrlxx0"
+  },
+  {
+    "id": "abrigo-252",
+    "titulo": "Superbike 2000",
+    "imagen": "./img/pc/Superbike2000.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 7000,
+    "trailer": "https://youtu.be/_oPqiN7Yqxc?si=m7RxUW06B0yuA5K4"
+  },
+  {
+    "id": "abrigo-253",
+    "titulo": "Tekken 3",
+    "imagen": "./img/pc/Tekken3.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 7000,
+    "trailer": "https://youtu.be/HoG9jmXMdW0?si=diACmRzlX5y7peX6"
+  },
+  {
+    "id": "abrigo-254",
+    "titulo": "Tony Hawk 4",
+    "imagen": "./img/pc/TonyHawk4.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 7000,
+    "trailer": "https://youtu.be/T3apDZQ3tNc?si=8-NA0evELu69SQij"
+  },
+  {
+    "id": "abrigo-255",
+    "titulo": "Tony Hawk 3",
+    "imagen": "./img/pc/TonyHawk3.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 7000,
+    "trailer": "https://youtu.be/VOcnE-vC65U?si=76pl6mC-ACE85sAs"
+  },
+  {
+    "id": "abrigo-256",
+    "titulo": "Tony Hawk 2",
+    "imagen": "./img/pc/TonyHawk2.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 7000,
+    "trailer": "https://youtu.be/FyVtYCL3CVQ?si=5dQFppGI2nHf-JvV"
+  },
+  {
+    "id": "abrigo-257",
+    "titulo": "Tony Hawk",
+    "imagen": "./img/pc/TonyHawk.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 7000,
+    "trailer": "https://youtu.be/H4B7JkrIB0g?si=6jpZDRDLNl7FDJ1p"
+  },
+  {
+    "id": "abrigo-258",
+    "titulo": "Tomb Raider 3",
+    "imagen": "./img/pc/TombRaider3.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 7000,
+    "trailer": "https://youtu.be/S2ghs2PA-Cg?si=XOyxmfP7EcGsKuxz"
+  },
+  {
+    "id": "abrigo-259",
+    "titulo": "BMX",
+    "imagen": "./img/pc/BMX.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 7000,
+    "trailer": "https://youtu.be/h-ZDVR6xgHw?si=jqARlEVNsowLwU4K"
+  },
+  {
+    "id": "abrigo-260",
+    "titulo": "Bloody Roar 2",
+    "imagen": "./img/pc/BloodyRoar2.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 7000,
+    "trailer": "https://youtu.be/l21YfA2qzzg?si=CT2iH07EbokQcVu9"
+  },
+  {
+    "id": "abrigo-261",
+    "titulo": "Army Men TA",
+    "imagen": "./img/pc/ArmyMenTA.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 7000,
+    "trailer": "https://youtu.be/eIBoK1yJCrk?si=5dFQjTW5AsOhDbvs"
+  },
+  {
+    "id": "abrigo-262",
+    "titulo": "Destruction Derby",
+    "imagen": "./img/pc/DestructionDerby.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 7000,
+    "trailer": "https://youtu.be/l4mDHNuXHgQ?si=Y65rfcl5CZB5i4RP"
+  },
+  {
+    "id": "abrigo-263",
+    "titulo": "Duke Nukem",
+    "imagen": "./img/pc/DukeNuke.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 7000,
+    "trailer": "https://youtu.be/Mad1B5soP5M?si=KhVbZ_Sx4BCdbP--"
+  },
+  {
+    "id": "abrigo-264",
+    "titulo": "King Of Fighters 96",
+    "imagen": "./img/pc/KOF96.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 7000,
+    "trailer": "https://youtu.be/30QATj00Myg?si=z_31RR8y_PvXRvol"
+  },
+  {
+    "id": "abrigo-265",
+    "titulo": "King Of Fighters 95",
+    "imagen": "./img/pc/KOF95.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 7000,
+    "trailer": "https://youtu.be/Y-6Zo2AH5vQ?si=xIvQwiJp9vPta3qt"
+  },
+  {
+    "id": "abrigo-266",
+    "titulo": "King Of Fighters 99",
+    "imagen": "./img/pc/KOF99.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 7000,
+    "trailer": "https://youtu.be/N5Brtc_kwUI?si=yqmqh3Mt5g_UYhC1"
+  },
+  {
+    "id": "abrigo-267",
+    "titulo": "Marvel VS Street Fighter",
+    "imagen": "./img/pc/MarvelVSSF.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 7000,
+    "trailer": "https://youtu.be/pnMwASnrJcM?si=ZeqR907nIJRMcybg"
+  },
+  {
+    "id": "abrigo-268",
+    "titulo": "Metal Gear ",
+    "imagen": "./img/pc/MetalGear.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 7000,
+    "trailer": "https://youtu.be/_IeL1L5IbfA?si=QgY1P2rAUaoWX_Y0"
+  },
+  {
+    "id": "abrigo-269",
+    "titulo": "Spec Ops Ranger Elite",
+    "imagen": "./img/pc/specops.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PC"
+    },
+    "precio": 7000,
+    "trailer": "https://youtu.be/ip179gFFysg?si=gHUPmoNDaGIhb7tH"
+  },
+  {
+    "id": "abrigo-270",
+    "titulo": "Spec Ops Cover Assault",
+    "imagen": "./img/pc/specopsca.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PC"
+    },
+    "precio": 7000,
+    "trailer": "https://youtu.be/FhO9te3JUuo?si=NNdczlylayOjhY9I"
+  },
+  {
+    "id": "abrigo-271",
+    "titulo": "V-Rally 2 Championship",
+    "imagen": "./img/pc/vrally2.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PC"
+    },
+    "precio": 7000,
+    "trailer": "https://youtu.be/d3-bsM6j5JU?si=K0Z4ouluwwT6jqZs"
+  },
+  {
+    "id": "abrigo-272",
+    "titulo": "Super Mario 64",
+    "imagen": "./img/pc/mario64.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PC"
+    },
+    "precio": 7000,
+    "trailer": "https://youtu.be/vT3AaQ77ges?si=l7_MtWzjFcK3mXrH"
+  },
+  {
+    "id": "abrigo-273",
+    "titulo": "Parasite Eve",
+    "imagen": "./img/pc/parasite.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PC"
+    },
+    "precio": 7000,
+    "trailer": "https://youtu.be/kVuhj_o0Cbo?si=VGPYaxtkZILj-3Ij"
+  },
+  {
+    "id": "abrigo-274",
+    "titulo": "007 Tomorrow Never Dies",
+    "imagen": "./img/pc/54.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 7000,
+    "trailer": "https://youtu.be/Fi_e2OIseMs?si=TF3FxaV-MXT2fHt7"
+  },
+  {
+    "id": "abrigo-275",
+    "titulo": "Capcom vs SNK",
+    "imagen": "./img/pc/56.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 7000,
+    "trailer": "https://youtu.be/l9qCMREV9W0?si=2t1aSZtpohYs2RFv"
+  },
+  {
+    "id": "abrigo-276",
+    "titulo": "Harry Potter y la Camara de los Secretos",
+    "imagen": "./img/pc/40.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 7000,
+    "trailer": "https://youtu.be/2xGabwbSGTY?si=OG_xm6_G32atGtBW"
+  },
+  {
+    "id": "abrigo-277",
+    "titulo": "Harry Potter y la Piedra Filosofal",
+    "imagen": "./img/pc/60.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 7000,
+    "trailer": "https://youtu.be/niA7Y3WRMNI?si=C2hRTqoWrZxpjAt9"
+  },
+  {
+    "id": "abrigo-278",
+    "titulo": "NASCAR Thunder 2004",
+    "imagen": "./img/pc/44.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 7000,
+    "trailer": "https://youtu.be/5YxOz60RTT0?si=6FUmj1Bcz103ItPr"
+  },
+  {
+    "id": "abrigo-279",
+    "titulo": "Need for Speed Porsche",
+    "imagen": "./img/pc/45.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 7000,
+    "trailer": "https://youtu.be/uRSrJX-_Rr4?si=BYMnyBmuaN6pnoY9"
+  },
+  {
+    "id": "abrigo-280",
+    "titulo": "Syphon Filter",
+    "imagen": "./img/pc/51.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 7000,
+    "trailer": "https://youtu.be/ugtuBj9mn6o?si=JZhlYw0oYw9btbIn"
+  },
+  {
+    "id": "abrigo-281",
+    "titulo": "Syphon Filter 3",
+    "imagen": "./img/pc/52.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 7000,
+    "trailer": "https://youtu.be/rThrwf3EEpU?si=JiqqGVte1QiTbzwL"
+  },
+  {
+    "id": "abrigo-282",
+    "titulo": "007 El mundo no basta",
+    "imagen": "./img/pc/007MundoNoBasta.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 7000,
+    "trailer": "https://youtu.be/4BU3BAb9IT4?si=PkQ9pl97lHZ4ur5V"
+  },
+  {
+    "id": "abrigo-283",
+    "titulo": "Ace Combat 3",
+    "imagen": "./img/pc/AceCombat3.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 7000,
+    "trailer": "https://youtu.be/27Gz2aX9ZxI?si=DQZ7_V7wYvAd67vx"
+  },
+  {
+    "id": "abrigo-284",
+    "titulo": "Alien",
+    "imagen": "./img/pc/Alien.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 7000,
+    "trailer": "https://youtu.be/TbRvM2zSDsM?si=mWwrSI163Y7dpuiI"
+  },
+  {
+    "id": "abrigo-285",
+    "titulo": "Alone in the dark",
+    "imagen": "./img/pc/AloneInTheDark.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 7000,
+    "trailer": "https://youtu.be/3n3MRxq4e7U?si=4lq_gbMUns_Zya_j"
+  },
+  {
+    "id": "abrigo-286",
+    "titulo": "Army Men 3d",
+    "imagen": "./img/pc/ArmyMen3D.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 7000,
+    "trailer": "https://youtu.be/wg6cu3Dqfh4?si=xEak5VVGuJj_KLIX"
+  },
+  {
+    "id": "abrigo-287",
+    "titulo": "Army Men Air Attack",
+    "imagen": "./img/pc/ArmyMenAA.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 7000,
+    "trailer": "https://youtu.be/81v0lbS5kwY?si=eZcNYOUdKOsp6Sg9"
+  },
+  {
+    "id": "abrigo-288",
+    "titulo": "Army Men Air Attack 2",
+    "imagen": "./img/pc/ArmyMenAA2.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 7000,
+    "trailer": "https://youtu.be/HKPvJBvHY9E?si=XV4klUjixP43jFT9"
+  },
+  {
+    "id": "abrigo-289",
+    "titulo": "Army Men Lock Load",
+    "imagen": "./img/pc/ArmyMenLL.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 7000,
+    "trailer": "https://youtu.be/MQIMal97UEM?si=gC3buREuTNDwdnlV"
+  },
+  {
+    "id": "abrigo-290",
+    "titulo": "Army Men Land Sea Air",
+    "imagen": "./img/pc/ArmyMenLSA.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 7000,
+    "trailer": "https://youtu.be/B28oYkJrqBw?si=Wttd7C5lqjtNms-j"
+  },
+  {
+    "id": "abrigo-291",
+    "titulo": "Army Men Operation Meltdown",
+    "imagen": "./img/pc/ArmyMenOM.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 7000,
+    "trailer": "https://youtu.be/x07Mswmmfz4?si=xUC_bL-f40iNvDsJ"
+  },
+  {
+    "id": "abrigo-292",
+    "titulo": "Army Men Omega Soldier",
+    "imagen": "./img/pc/ArmyMenOS.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 7000,
+    "trailer": "https://youtu.be/wnPmsyeNvO8?si=ppsNRNbcfwGlvhym"
+  },
+  {
+    "id": "abrigo-293",
+    "titulo": "Army Men Sarge�s Heroes",
+    "imagen": "./img/pc/ArmyMenSH.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 7000,
+    "trailer": "https://youtu.be/rEzmpvuWPGU?si=ysb-FNl2eXFJmHsY"
+  },
+  {
+    "id": "abrigo-294",
+    "titulo": "Army Men Sarge�s Heroes 2",
+    "imagen": "./img/pc/ArmyMenSH2.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 7000,
+    "trailer": "https://youtu.be/2kn1bcwWzyU?si=yOTE9Coj3r0jxQGR"
+  },
+  {
+    "id": "abrigo-295",
+    "titulo": "Casper",
+    "imagen": "./img/pc/casper.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 7000,
+    "trailer": "https://youtu.be/QubQV1TC2ow?si=l1jLj4CzUUbrjd83"
+  },
+  {
+    "id": "abrigo-296",
+    "titulo": "Crash Bash ",
+    "imagen": "./img/pc/CrashBash.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 7000,
+    "trailer": "https://youtu.be/9Y4no_Bc3yg?si=IIAFj4sYgBLz2il_"
+  },
+  {
+    "id": "abrigo-297",
+    "titulo": "Creatures 2",
+    "imagen": "./img/pc/Creatures2.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 7000,
+    "trailer": "https://youtu.be/WJ27XGn2NTM?si=yzD8tezj84UXjLiO"
+  },
+  {
+    "id": "abrigo-298",
+    "titulo": "Diablo",
+    "imagen": "./img/pc/Diablo.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 7000,
+    "trailer": "https://youtu.be/LbP3sFqq5TY?si=VIJ6CBSQLpgdstED"
+  },
+  {
+    "id": "abrigo-299",
+    "titulo": "Digimon 2003",
+    "imagen": "./img/pc/Digimon2003.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 7000,
+    "trailer": "https://youtu.be/3aFF1yR0rXE?si=jsF7JkrL7Q-QEIrK"
+  },
+  {
+    "id": "abrigo-300",
+    "titulo": "Dino Crisis 1",
+    "imagen": "./img/pc/DinoCrisis1.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 7000,
+    "trailer": "https://youtu.be/gE_izuZ1rxU?si=uZf_GRgqZiDhZx4o"
+  },
+  {
+    "id": "abrigo-301",
+    "titulo": "Dino Crisis 2",
+    "imagen": "./img/pc/dinocrisis2.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 7000,
+    "trailer": "https://youtu.be/MnJumLFojJo?si=IfZrraSvT7FH-xDe"
+  },
+  {
+    "id": "abrigo-302",
+    "titulo": "Eagle One Harrier Attack",
+    "imagen": "./img/pc/EagleOne.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 7000,
+    "trailer": "https://youtu.be/mhuvelVfyKQ?si=UwRcLDdlkwqx7tQG"
+  },
+  {
+    "id": "abrigo-303",
+    "titulo": "Fear Effect 2",
+    "imagen": "./img/pc/FearEffect2.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 7000,
+    "trailer": "https://youtu.be/R_sLRWbvvCc?si=-PuLlTOz_gkCLwRR"
+  },
+  {
+    "id": "abrigo-304",
+    "titulo": "ISS 2",
+    "imagen": "./img/pc/ISS2.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 7000,
+    "trailer": "https://youtu.be/3N3n0T8ARjo?si=VCn2CRfjl7XgKMxl"
+  },
+  {
+    "id": "abrigo-305",
+    "titulo": "ISS club",
+    "imagen": "./img/pc/ISSclub.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 7000,
+    "trailer": "https://youtu.be/3N3n0T8ARjo?si=VCn2CRfjl7XgKMxl"
+  },
+  {
+    "id": "abrigo-306",
+    "titulo": "Star Wars Jedi",
+    "imagen": "./img/pc/Jedi.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 7000,
+    "trailer": "https://youtu.be/bkDH0OMUw2o?si=L7M10te778gq0Ijq"
+  },
+  {
+    "id": "abrigo-307",
+    "titulo": "Le Mans 24 hours",
+    "imagen": "./img/pc/LeMans.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 7000,
+    "trailer": "https://youtu.be/Ifl8fRTGHVs?si=ME8J4BEFdFt3FYDx"
+  },
+  {
+    "id": "abrigo-308",
+    "titulo": "Guerra de Marranos",
+    "imagen": "./img/pc/Marranos.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 7000,
+    "trailer": "https://youtu.be/_9lkBaQJLYI?si=HC3y0P9hh2Wj9d48"
+  },
+  {
+    "id": "abrigo-309",
+    "titulo": "Mision Imposible",
+    "imagen": "./img/pc/MisionImposible.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 7000,
+    "trailer": "https://youtu.be/jewCpD8vyzA?si=XZSBtsmt7j4LPyK9"
+  },
+  {
+    "id": "abrigo-310",
+    "titulo": "Monster Inc",
+    "imagen": "./img/pc/MonsterINC.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 7000,
+    "trailer": "https://youtu.be/zsFWKxzMq54?si=eq5xzEsyZA114Bv1"
+  },
+  {
+    "id": "abrigo-311",
+    "titulo": "Parasite Eve 2",
+    "imagen": "./img/pc/ParasiteEve2.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 7000,
+    "trailer": "https://youtu.be/6MrSzDiaf2g?si=75SiV17qaDMdBhbm"
+  },
+  {
+    "id": "abrigo-312",
+    "titulo": "Police Chases",
+    "imagen": "./img/pc/PoliceChases.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 7000,
+    "trailer": "https://youtu.be/9l6n_gk9e7k?si=nUL6cOxPmqzW8dOI"
+  },
+  {
+    "id": "abrigo-313",
+    "titulo": "Quinto Elemento",
+    "imagen": "./img/pc/QuintoElemento.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 7000,
+    "trailer": "https://youtu.be/_oyrC_WcEcA?si=2qkfQI4fnYLaTcIt"
+  },
+  {
+    "id": "abrigo-314",
+    "titulo": "Collin Mc Crae Rally",
+    "imagen": "./img/pc/rallycm.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 7000,
+    "trailer": "https://youtu.be/ifIH1VMq7_w?si=6dV7OfMV8Es1A3So"
+  },
+  {
+    "id": "abrigo-315",
+    "titulo": "Rayman",
+    "imagen": "./img/pc/Rayman.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 7000,
+    "trailer": "https://youtu.be/pYWzzGK9XKw?si=A9Y618dbo98r5JmW"
+  },
+  {
+    "id": "abrigo-316",
+    "titulo": "Rayman 2",
+    "imagen": "./img/pc/Rayman2.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 7000,
+    "trailer": "https://youtu.be/kOMVkfgRhSI?si=kE3JJrpRvBWGTUjM"
+  },
+  {
+    "id": "abrigo-317",
+    "titulo": "Resident Evil Directors cut",
+    "imagen": "./img/pc/ResidentEvilDC.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 7000,
+    "trailer": "https://youtu.be/26a_B8b6_Ew?si=AWFdQzXxiZYfyCyI"
+  },
+  {
+    "id": "abrigo-318",
+    "titulo": "Samurai Shodown",
+    "imagen": "./img/pc/Samurai.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 7000,
+    "trailer": "https://youtu.be/Cjf26BqrJ80?si=qMsjcaySKOPQajUx"
+  },
+  {
+    "id": "abrigo-319",
+    "titulo": "Star Wars the phantom menace",
+    "imagen": "./img/pc/StarWars.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 7000,
+    "trailer": "https://youtu.be/q3bx4-BfWZE?si=dA-h74Ci3z7C9SHF"
+  },
+  {
+    "id": "abrigo-320",
+    "titulo": "Street fighter 2",
+    "imagen": "./img/pc/streetfighter.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 7000,
+    "trailer": "https://youtu.be/k0zaroG_oWM?si=JK1l623EpHfUtg8U"
+  },
+  {
+    "id": "abrigo-321",
+    "titulo": "Street fighter Alpha 3",
+    "imagen": "./img/pc/streetfighterAlpha3.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 7000,
+    "trailer": "https://youtu.be/0dQF3--ooxc?si=XKupb7BuDOIui46S"
+  },
+  {
+    "id": "abrigo-322",
+    "titulo": "Syphon Filter 2",
+    "imagen": "./img/pc/SyphonFilter2.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 7000,
+    "trailer": "https://youtu.be/ul2xRSBN_Tk?si=HNqoaZf8Qcmxrzep"
+  },
+  {
+    "id": "abrigo-323",
+    "titulo": "Test Drive 6",
+    "imagen": "./img/pc/TestDrive6.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 7000,
+    "trailer": "https://youtu.be/8OraJeqwCpA?si=1pylFKa3CpGtz3i7"
+  },
+  {
+    "id": "abrigo-324",
+    "titulo": "TOCA",
+    "imagen": "./img/pc/TOCA.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 7000,
+    "trailer": "https://youtu.be/AoPvKQ1PLfw?si=9G0zCP1fvZb78DoT"
+  },
+  {
+    "id": "abrigo-325",
+    "titulo": "Tomb Raider 2",
+    "imagen": "./img/pc/TombRaider2.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 7000,
+    "trailer": "https://youtu.be/S0wZv-qA2wE?si=1eTE8HqittsdGi_U"
+  },
+  {
+    "id": "abrigo-326",
+    "titulo": "Toy story racer",
+    "imagen": "./img/pc/toystoryracer.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 7000,
+    "trailer": "https://youtu.be/69yJDbatKtc?si=hmT5W5wdjZTXQ8UO"
+  },
+  {
+    "id": "abrigo-327",
+    "titulo": "Twisted Metal",
+    "imagen": "./img/pc/TwistedMetal.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 7000,
+    "trailer": "https://youtu.be/8mvL5QauQls?si=o2x2uGdmnLi_pk_R"
+  },
+  {
+    "id": "abrigo-328",
+    "titulo": "Twisted Metal 2",
+    "imagen": "./img/pc/Twistedmetal2.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 7000,
+    "trailer": "https://youtu.be/QAIsWC0ix_k?si=abX65g21xAqOSijA"
+  },
+  {
+    "id": "abrigo-329",
+    "titulo": "Twisted Metal 3",
+    "imagen": "./img/pc/TwistedMetal3.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 7000,
+    "trailer": "https://youtu.be/rbtM6R6w11s?si=Tvku-1wUpGmzU9_z"
+  },
+  {
+    "id": "abrigo-330",
+    "titulo": "Vampire Hunter",
+    "imagen": "./img/pc/VampireHunter.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 7000,
+    "trailer": "https://youtu.be/Jjc54wGicpc?si=c3UC_EMx0Jx7vnHg"
+  },
+  {
+    "id": "abrigo-331",
+    "titulo": "Xmen VS Street Fighter",
+    "imagen": "./img/pc/XMenVSSF.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "precio": 7000,
+    "trailer": "https://youtu.be/qdcSrfUSrZs?si=Otwx5DlNLJZYPSwl"
+  },
+  {
+    "id": "abrigo-332",
+    "titulo": "Acceso a todo el catalogo",
+    "imagen": "./img/pc/todos.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PC"
+    },
+    "precio": 50000,
+    "trailer": "pendiente"
+  }
 ]
