@@ -25,8 +25,7 @@
                 <i class="bi bi-x"></i>
             </button>
             <header>
-                <h1 class="logo">Videojuegos</h1>
-                <h1 class="logo">Retro</h1>
+                <h1 class="logo">Videojuegos Retro</h1>
                 <img style="height: 100px; width: 100px;" src="./img/logo.png" alt="">
                 
             </header>
@@ -42,7 +41,7 @@
                         <button id="PCbaja" class="boton-menu boton-categoria"><i class="bi bi-hand-index-thumb"></i> Requisitos bajos (Sin tarjeta gráfica)</button>
                     </li>
                     <li>
-                        <a class="boton-menu boton-carrito" href="./carrito.html">
+                        <a class="boton-menu boton-carrito" href="./carritopc.html">
                             <i class="bi bi-cart-fill"></i> Carrito <span id="numerito" class="numerito">0</span>
                         </a>
                     </li>
@@ -55,17 +54,25 @@
         <main>
             <h2 class="titulo-principal" id="titulo-principal">Catálogo juegos para computador</h2>
             <div class="search-bar">
-                <input type="text" id="search-input" placeholder="Buscar juegos...">
-                <button onclick="buscarJuegos()">Buscar</button>
+                <input type="text" id="search-input" placeholder="Buscar juegos..." oninput="buscarJuegos()">
+                <button onclick="ordenarPorPopularidad()">Más populares</button>
+                <button onclick="ordenarAlfabeticamente()">Orden alfabético</button>
             </div>
             <div id="contenedor-productos" class="contenedor-productos">
                 <!-- Esto se va a rellenar con JS -->
+            </div>
+            <!-- Contenedor del pop-up -->
+            <div id="popup-trailer" class="popup">
+                <div class="popup-content">
+                    <span class="popup-close">&times;</span>
+                    <iframe id="popup-video" src="" frameborder="0" allowfullscreen></iframe>
+                </div>
             </div>
             <a href="https://api.whatsapp.com/send?phone=573042672810&text=Hola,%20no%20encuentro%20el%20juego%20que%20busco" target="_blank">
                 <img style="height: 100px; width: 300px;" src="./img/whatsapp2.png" alt="WhatsApp">
               </a>
         </main>
-        <a href="./carrito.html" class="boton-flotante">Ir al carrito</a>
+        <a href="./carritopc.html" class="boton-flotante">Hacer pago $</a>
     </div>
     
     <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/toastify-js"></script>
